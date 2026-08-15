@@ -242,7 +242,7 @@
             "last_commit": "2026-08-10T03:53:13Z",
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4722
+            "stars": 4723
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-08-10T02:35:29Z",
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9168
+            "stars": 9166
           }
         },
         {
@@ -335,10 +335,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-12T03:38:12Z",
+            "last_commit": "2026-08-14T20:33:16Z",
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21619
+            "stars": 21620
           }
         },
         {
@@ -425,7 +425,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T07:29:19Z",
+            "last_commit": "2026-08-14T16:25:50Z",
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3533
@@ -653,10 +653,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-12T12:32:31Z",
+            "last_commit": "2026-08-14T23:02:15Z",
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8654
+            "stars": 8662
           }
         },
         {
@@ -1066,7 +1066,7 @@
             "last_commit": "2026-01-23T13:16:19Z",
             "owner": "reagent-project",
             "repo": "reagent",
-            "stars": 4883
+            "stars": 4884
           }
         },
         {
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:45:15.951Z",
+    "last_updated": "2026-08-15T00:02:27.015Z",
     "original_repository": "websemantics/awesome-ant-design",
     "original_repository_sha": "7afce368a9a5b871f3f0dc9e8bef71a821f2841b",
     "enhanced_repository": "enhansome/enhansome-ant-design",
