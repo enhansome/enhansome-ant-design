@@ -242,7 +242,7 @@
             "last_commit": "2026-08-10T03:53:13Z",
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4724
+            "stars": 4725
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-08-10T02:35:29Z",
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9166
+            "stars": 9167
           }
         },
         {
@@ -656,7 +656,7 @@
             "last_commit": "2026-08-14T23:02:15Z",
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8666
+            "stars": 8669
           }
         },
         {
@@ -704,7 +704,7 @@
             "last_commit": "2026-07-27T00:18:55Z",
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9761
+            "stars": 9758
           }
         },
         {
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T00:00:33.585Z",
+    "last_updated": "2026-08-16T23:59:23.757Z",
     "original_repository": "websemantics/awesome-ant-design",
     "original_repository_sha": "7afce368a9a5b871f3f0dc9e8bef71a821f2841b",
     "enhanced_repository": "enhansome/enhansome-ant-design",
