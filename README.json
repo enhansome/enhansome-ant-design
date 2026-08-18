@@ -242,7 +242,7 @@
             "last_commit": "2026-08-10T03:53:13Z",
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4725
+            "stars": 4727
           }
         },
         {
@@ -301,10 +301,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T02:35:29Z",
+            "last_commit": "2026-08-17T12:40:18Z",
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9167
+            "stars": 9168
           }
         },
         {
@@ -338,7 +338,7 @@
             "last_commit": "2026-08-15T01:51:28Z",
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21619
+            "stars": 21618
           }
         },
         {
@@ -425,10 +425,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T21:01:04Z",
+            "last_commit": "2026-08-17T12:04:33Z",
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3533
+            "stars": 3532
           }
         },
         {
@@ -656,7 +656,7 @@
             "last_commit": "2026-08-14T23:02:15Z",
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8669
+            "stars": 8672
           }
         },
         {
@@ -1134,7 +1134,7 @@
             "last_commit": "2026-07-06T01:25:51Z",
             "owner": "ant-design",
             "repo": "ant-design-icons",
-            "stars": 1087
+            "stars": 1088
           }
         },
         {
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:59:23.757Z",
+    "last_updated": "2026-08-18T00:01:41.527Z",
     "original_repository": "websemantics/awesome-ant-design",
     "original_repository_sha": "7afce368a9a5b871f3f0dc9e8bef71a821f2841b",
     "enhanced_repository": "enhansome/enhansome-ant-design",
