@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63938330,
             "language": "JavaScript",
             "last_commit": "2019-03-17T02:38:54Z",
             "owner": "dvajs",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45030237,
             "language": "JavaScript",
             "last_commit": "2018-11-04T09:26:58Z",
             "owner": "ant-design",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163895941,
             "language": "TypeScript",
             "last_commit": "2024-11-11T19:09:44Z",
             "owner": "jannikbuschke",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228765615,
             "language": "TypeScript",
             "last_commit": "2023-01-07T15:48:31Z",
             "owner": "fi3ework",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230768758,
             "language": "TypeScript",
             "last_commit": "2026-07-20T21:46:40Z",
             "owner": "limichange",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161618096,
             "language": "JavaScript",
             "last_commit": "2019-01-02T20:03:10Z",
             "owner": "codetrial",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254817408,
             "language": "JavaScript",
             "last_commit": "2022-12-11T01:16:44Z",
             "owner": "garrett12138",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51938213,
             "language": "JavaScript",
             "last_commit": "2017-04-11T11:43:26Z",
             "owner": "hutxs",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130117936,
             "language": "JavaScript",
             "last_commit": "2023-01-06T04:42:58Z",
             "owner": "mzohaibqc",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131262247,
             "language": "JavaScript",
             "last_commit": "2023-01-08T03:18:11Z",
             "owner": "mzohaibqc",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 191863123,
             "language": "CSS",
             "last_commit": "2023-01-11T07:09:48Z",
             "owner": "luffyZh",
@@ -170,63 +181,68 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 409821361,
             "language": "TypeScript",
             "last_commit": "2023-10-10T06:46:05Z",
             "owner": "letshare",
             "repo": "storybook-addon-customize-antd-theme",
             "stars": 32
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ant-design-dark-theme",
+              "description": "Dark theme variables of Ant Design.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188952079,
+                "language": "TypeScript",
+                "last_commit": "2021-03-05T08:38:23Z",
+                "owner": "ant-design",
+                "repo": "ant-design-dark-theme",
+                "stars": 476
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ant-design-aliyun-theme",
+              "description": "Aliyun console theme variables of Ant Design.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196127280,
+                "language": "TypeScript",
+                "last_commit": "2022-08-29T03:36:54Z",
+                "owner": "ant-design",
+                "repo": "ant-design-aliyun-theme",
+                "stars": 308
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ant-dark-theme",
+              "description": "Dark theme variables of Ant Design.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 197364852,
+                "language": "TypeScript",
+                "last_commit": "2020-12-11T16:33:14Z",
+                "owner": "Kuechlin",
+                "repo": "ant-dark-theme",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Themes"
         }
       ],
       "title": "Theming"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ant-design-dark-theme",
-          "description": "Dark theme variables of Ant Design.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-03-05T08:38:23Z",
-            "owner": "ant-design",
-            "repo": "ant-design-dark-theme",
-            "stars": 476
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ant-design-aliyun-theme",
-          "description": "Aliyun console theme variables of Ant Design.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-08-29T03:36:54Z",
-            "owner": "ant-design",
-            "repo": "ant-design-aliyun-theme",
-            "stars": 308
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ant-dark-theme",
-          "description": "Dark theme variables of Ant Design.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2020-12-11T16:33:14Z",
-            "owner": "Kuechlin",
-            "repo": "ant-dark-theme",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Themes"
     },
     {
       "description": "Ant Design family of projects.",
@@ -238,11 +254,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798235565,
             "language": "TypeScript",
             "last_commit": "2026-08-10T03:53:13Z",
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4728
+            "stars": 4730
           }
         },
         {
@@ -252,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 680030799,
             "language": "TypeScript",
             "last_commit": "2026-07-22T06:21:32Z",
             "owner": "ant-design",
@@ -266,6 +284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58516646,
             "language": null,
             "last_commit": "2017-12-15T04:37:15Z",
             "owner": "G2-JS",
@@ -280,6 +299,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58516646,
             "language": null,
             "last_commit": "2017-12-15T04:37:15Z",
             "owner": "G2-JS",
@@ -300,8 +320,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99705100,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T12:40:18Z",
+            "last_commit": "2026-08-19T08:41:25Z",
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9167
@@ -314,6 +335,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145691175,
             "language": "TypeScript",
             "last_commit": "2024-08-09T09:40:39Z",
             "owner": "NG-ZORRO",
@@ -334,6 +356,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104172832,
             "language": "Vue",
             "last_commit": "2026-08-15T01:51:28Z",
             "owner": "vueComponent",
@@ -348,6 +371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141654164,
             "language": "Vue",
             "last_commit": "2024-05-08T03:36:04Z",
             "owner": "iczer",
@@ -362,6 +386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65170293,
             "language": "JavaScript",
             "last_commit": "2024-03-06T08:45:27Z",
             "owner": "FE-Driver",
@@ -376,6 +401,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103497212,
             "language": "Less",
             "last_commit": "2026-03-01T09:40:32Z",
             "owner": "zzuu666",
@@ -390,6 +416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60836681,
             "language": "Vue",
             "last_commit": "2016-12-28T03:22:57Z",
             "owner": "kokoroX",
@@ -404,6 +431,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62781589,
             "language": "CSS",
             "last_commit": "2017-03-02T03:18:54Z",
             "owner": "lileilei",
@@ -424,11 +452,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159973917,
             "language": "C#",
-            "last_commit": "2026-08-18T21:11:19Z",
+            "last_commit": "2026-08-19T08:04:46Z",
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3530
+            "stars": 3531
           }
         },
         {
@@ -438,6 +467,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 492493732,
             "language": "C#",
             "last_commit": "2024-08-20T23:02:24Z",
             "owner": "ElderJames",
@@ -458,6 +488,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77431919,
             "language": "JavaScript",
             "last_commit": "2022-12-06T23:14:20Z",
             "owner": "leejaen",
@@ -472,6 +503,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147159427,
             "language": "JavaScript",
             "last_commit": "2026-02-17T20:16:51Z",
             "owner": "Leonard-Li777",
@@ -486,6 +518,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287226567,
             "language": "TypeScript",
             "last_commit": "2023-12-02T05:43:19Z",
             "owner": "viewweiwu",
@@ -500,6 +533,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101040041,
             "language": "TypeScript",
             "last_commit": "2019-10-29T14:47:14Z",
             "owner": "NewbeeFE",
@@ -514,6 +548,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 606501380,
             "language": "TypeScript",
             "last_commit": "2026-03-22T08:49:18Z",
             "owner": "typesnippet",
@@ -528,6 +563,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157224506,
             "language": "TypeScript",
             "last_commit": "2024-09-06T07:51:09Z",
             "owner": "Kombustor",
@@ -542,6 +578,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150803771,
             "language": "JavaScript",
             "last_commit": "2018-10-01T09:58:36Z",
             "owner": "mzohaibqc",
@@ -556,6 +593,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65363768,
             "language": "JavaScript",
             "last_commit": "2016-08-31T08:25:18Z",
             "owner": "huhulab",
@@ -570,6 +608,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148315534,
             "language": "TypeScript",
             "last_commit": "2020-10-25T09:57:13Z",
             "owner": "hsbalar",
@@ -584,6 +623,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50970755,
             "language": "JavaScript",
             "last_commit": "2016-11-23T03:24:27Z",
             "owner": "kagawagao",
@@ -598,6 +638,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344150228,
             "language": "JavaScript",
             "last_commit": "2021-10-17T13:35:24Z",
             "owner": "huyennbl",
@@ -609,7 +650,7 @@
       "title": "Components"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -618,6 +659,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191705543,
             "language": "TypeScript",
             "last_commit": "2023-02-04T02:12:55Z",
             "owner": "ant-design",
@@ -632,6 +674,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383839916,
             "language": "TypeScript",
             "last_commit": "2025-06-10T02:51:57Z",
             "owner": "hemengke1997",
@@ -652,6 +695,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304981340,
             "language": "JavaScript",
             "last_commit": "2026-08-14T23:02:15Z",
             "owner": "idurar",
@@ -666,6 +710,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83645330,
             "language": "JavaScript",
             "last_commit": "2017-05-25T12:24:44Z",
             "owner": "dhruv-kumar-jha",
@@ -680,6 +725,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44947592,
             "language": "JavaScript",
             "last_commit": "2016-02-04T07:26:41Z",
             "owner": "pizn",
@@ -700,6 +746,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50334710,
             "language": "TypeScript",
             "last_commit": "2026-07-27T00:18:55Z",
             "owner": "zuiidea",
@@ -714,6 +761,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100562563,
             "language": "TypeScript",
             "last_commit": "2026-06-16T07:31:01Z",
             "owner": "ng-alain",
@@ -728,6 +776,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76842453,
             "language": "JavaScript",
             "last_commit": "2023-03-04T06:44:59Z",
             "owner": "ant-design",
@@ -742,6 +791,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59460294,
             "language": "JavaScript",
             "last_commit": "2017-06-27T02:10:01Z",
             "owner": "JasonBai007",
@@ -756,6 +806,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62851278,
             "language": "JavaScript",
             "last_commit": "2018-09-17T15:03:04Z",
             "owner": "peterchenhdu",
@@ -770,6 +821,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63518388,
             "language": "JavaScript",
             "last_commit": "2024-08-01T05:24:34Z",
             "owner": "Justin-lu",
@@ -784,6 +836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125148901,
             "language": "TypeScript",
             "last_commit": "2023-01-27T10:20:56Z",
             "owner": "YDJ-FE",
@@ -798,6 +851,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 352893257,
             "language": "TypeScript",
             "last_commit": "2022-11-10T01:03:21Z",
             "owner": "ychengcloud",
@@ -812,6 +866,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63663024,
             "language": "JavaScript",
             "last_commit": "2018-10-22T06:30:51Z",
             "owner": "chenliang2016",
@@ -826,6 +881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78623849,
             "language": "JavaScript",
             "last_commit": "2018-11-24T06:03:47Z",
             "owner": "xlsdg",
@@ -840,6 +896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98878467,
             "language": "TypeScript",
             "last_commit": "2017-12-16T20:55:09Z",
             "owner": "comerc",
@@ -854,6 +911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54624116,
             "language": "JavaScript",
             "last_commit": "2016-03-25T00:38:04Z",
             "owner": "yuzhouisme",
@@ -868,6 +926,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50341268,
             "language": "JavaScript",
             "last_commit": "2017-03-23T08:47:00Z",
             "owner": "jovey-zheng",
@@ -882,6 +941,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52318852,
             "language": "JavaScript",
             "last_commit": "2018-01-15T19:33:36Z",
             "owner": "betarabbit",
@@ -896,6 +956,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 198815301,
             "language": "TypeScript",
             "last_commit": "2022-07-21T23:09:56Z",
             "owner": "VincentCordobes",
@@ -910,6 +971,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64824982,
             "language": "CSS",
             "last_commit": "2016-12-12T03:42:33Z",
             "owner": "pookpal",
@@ -924,6 +986,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57193878,
             "language": "JavaScript",
             "last_commit": "2016-09-06T02:22:02Z",
             "owner": "yukrain",
@@ -938,6 +1001,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52421266,
             "language": "CSS",
             "last_commit": "2016-07-26T06:50:30Z",
             "owner": "LeuisKen",
@@ -952,6 +1016,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78623728,
             "language": "JavaScript",
             "last_commit": "2018-03-07T03:07:55Z",
             "owner": "xlsdg",
@@ -966,6 +1031,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86895971,
             "language": "TypeScript",
             "last_commit": "2019-10-19T10:05:52Z",
             "owner": "BANG88",
@@ -980,6 +1046,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53386805,
             "language": "JavaScript",
             "last_commit": "2016-04-25T05:04:22Z",
             "owner": "huhulab",
@@ -994,6 +1061,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91891228,
             "language": "JavaScript",
             "last_commit": "2017-08-09T15:01:24Z",
             "owner": "subenksaha",
@@ -1008,6 +1076,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153069965,
             "language": "JavaScript",
             "last_commit": "2018-11-13T11:51:16Z",
             "owner": "Atyantik",
@@ -1022,6 +1091,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61349116,
             "language": "JavaScript",
             "last_commit": "2016-09-13T09:10:13Z",
             "owner": "cupools",
@@ -1036,18 +1106,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97587866,
             "language": "JavaScript",
             "last_commit": "2019-11-06T14:59:15Z",
             "owner": "elmarti",
             "repo": "meteor-antd-boilerplate",
             "stars": 9
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Dva Ant Admin",
-          "description": "A front-end boilerplate built with Dva, Ant-Design",
-          "children": []
         }
       ],
       "title": "Boilerplates"
@@ -1062,8 +1127,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15290592,
             "language": "Clojure",
-            "last_commit": "2026-01-23T13:16:19Z",
+            "last_commit": "2026-08-19T07:18:08Z",
             "owner": "reagent-project",
             "repo": "reagent",
             "stars": 4885
@@ -1076,6 +1142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95835101,
             "language": "Clojure",
             "last_commit": "2020-08-09T15:34:51Z",
             "owner": "priornix",
@@ -1087,7 +1154,7 @@
       "title": "Non-JavaScript Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1096,6 +1163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81653005,
             "language": "TypeScript",
             "last_commit": "2018-02-07T14:15:00Z",
             "owner": "thundernet8",
@@ -1110,6 +1178,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 82277464,
             "language": "HTML",
             "last_commit": "2020-07-27T01:39:51Z",
             "owner": "nowa-webpack",
@@ -1121,7 +1190,7 @@
       "title": "Electron"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1130,6 +1199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139113100,
             "language": "TypeScript",
             "last_commit": "2026-07-06T01:25:51Z",
             "owner": "ant-design",
@@ -1144,6 +1214,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 134052059,
             "language": "JavaScript",
             "last_commit": "2018-08-22T16:01:18Z",
             "owner": "fjc0k",
@@ -1158,6 +1229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220388732,
             "language": "TypeScript",
             "last_commit": "2024-03-18T11:37:37Z",
             "owner": "2fd",
@@ -1167,21 +1239,12 @@
         }
       ],
       "title": "Icons"
-    },
-    {
-      "description": "Your contributions are always welcome! Click Here to read the guidelines.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T00:01:13.079Z",
+    "last_updated": "2026-08-19T12:17:00.870Z",
     "original_repository": "websemantics/awesome-ant-design",
+    "original_repository_id": 64331013,
     "original_repository_sha": "7afce368a9a5b871f3f0dc9e8bef71a821f2841b",
     "enhanced_repository": "enhansome/enhansome-ant-design",
     "enhanced_repository_description": null,
