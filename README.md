@@ -21,7 +21,7 @@
 
 > A curated list of [Ant Design](http://ant.design/) resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,654 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,822 | 🐛 102 | 📅 2026-08-18
 [<img src="https://camo.githubusercontent.com/2f393ed1a4c6d222de314c16e0334301cae3fb7a/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e7376673f73616e6974697a653d74727565" align="right" width="160">](https://ant.design/)
 
 Ant Design, a design language for middleware, is refined by Experience Technology Department of Ant Financial, aims to uniform the user interface specs for middleware projects, reduce the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
@@ -112,7 +112,7 @@ Ant Design family of projects.
 
 Projects that are built with Angular and Ant Design.
 
-* [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,167 | 🐛 778 | 🌐 TypeScript | 📅 2026-08-19 - Ant Design of Angular.
+* [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,167 | 🐛 780 | 🌐 TypeScript | 📅 2026-08-19 - Ant Design of Angular.
 * [NG-ZORRO-Mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) ⭐ 807 | 🐛 61 | 🌐 TypeScript | 📅 2024-08-09 - Ant Design Mobile of Angular
 * [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
@@ -142,7 +142,7 @@ A list of UI components built with Ant Design.
 * [antd-table-infinity](https://github.com/Leonard-Li777/antd-table-infinity) ⭐ 287 | 🐛 40 | 🌐 JavaScript | 📅 2026-02-17 - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
 * [antd-amiya](https://github.com/viewweiwu/amiya) ⭐ 138 | 🐛 8 | 🌐 TypeScript | 📅 2023-12-02 - Page level components and with table and form.
 * [antd-data-table](https://github.com/NewbeeFE/antd-data-table) ⭐ 126 | 🐛 16 | 🌐 TypeScript | 📅 2019-10-29 - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
-* [antd-phone-input](https://github.com/ArtyomVancyan/antd-phone-input) ⭐ 92 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-22 - Advanced, highly customizable phone input component for Ant Design.
+* [antd-phone-input](https://github.com/ArtyomVancyan/antd-phone-input) ⭐ 93 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-22 - Advanced, highly customizable phone input component for Ant Design.
 * [antd-password-input-strength](https://github.com/Kombustor/antd-password-input-strength) ⭐ 88 | 🐛 3 | 🌐 TypeScript | 📅 2024-09-06 - AntD Input component with password-strength indicator.
 * [antd-amplify-react](https://github.com/mzohaibqc/antd-amplify-react) ⭐ 59 | 🐛 1 | 🌐 JavaScript | 📅 2018-10-01 - A collection of Ant Design component for Aws Amplify for Authentication
 * [Antd Kit](https://github.com/huhulab/antd-kit) ⭐ 39 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-31 - Advanced Ant Design components.
@@ -159,7 +159,7 @@ A list of UI components built with Ant Design.
 
 A list of mature apps built with Ant Design.
 
-* [IDURAR ERP/CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,673 | 🐛 486 | 🌐 JavaScript | 📅 2026-08-14 - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+* [IDURAR ERP/CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,678 | 🐛 486 | 🌐 JavaScript | 📅 2026-08-14 - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 * [Productivity Application](https://github.com/dhruv-kumar-jha/productivity-frontend) ⭐ 248 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-25 - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 * [Eevee](https://github.com/pizn/eevee) ⭐ 173 | 🐛 5 | 🌐 JavaScript | 📅 2016-02-04 - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 
@@ -229,7 +229,7 @@ A list of libraries that are written for non-JavaScript languages.
 
 ## Contributing
 
-Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/websemantics/awesome-ant-design/blob/master/contributing.md) ⭐ 3,302 | 🐛 31 | 📅 2025-07-29.
+Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/websemantics/awesome-ant-design/blob/master/contributing.md) ⭐ 3,301 | 🐛 31 | 📅 2025-07-29.
 
 ## License
 
@@ -239,4 +239,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
