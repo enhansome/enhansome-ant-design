@@ -259,7 +259,7 @@
             "last_commit": "2026-08-10T03:53:13Z",
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4733
+            "stars": 4735
           }
         },
         {
@@ -322,7 +322,7 @@
             "archived": false,
             "id": 99705100,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T02:58:33Z",
+            "last_commit": "2026-08-22T18:44:26Z",
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9166
@@ -454,7 +454,7 @@
             "archived": false,
             "id": 159973917,
             "language": "C#",
-            "last_commit": "2026-08-21T11:02:44Z",
+            "last_commit": "2026-08-22T18:25:08Z",
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3531
@@ -700,7 +700,7 @@
             "last_commit": "2026-08-14T23:02:15Z",
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8691
+            "stars": 8692
           }
         },
         {
@@ -751,7 +751,7 @@
             "last_commit": "2026-07-27T00:18:55Z",
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9758
+            "stars": 9759
           }
         },
         {
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T00:02:37.771Z",
+    "last_updated": "2026-08-23T00:00:41.460Z",
     "original_repository": "websemantics/awesome-ant-design",
     "original_repository_id": 64331013,
     "original_repository_sha": "7afce368a9a5b871f3f0dc9e8bef71a821f2841b",
