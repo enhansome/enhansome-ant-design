@@ -259,7 +259,7 @@
             "last_commit": "2026-08-10T03:53:13Z",
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4744
+            "stars": 4745
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2026-07-22T06:21:32Z",
             "owner": "ant-design",
             "repo": "ant-design-web3",
-            "stars": 1144
+            "stars": 1145
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2026-08-25T05:31:27Z",
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9166
+            "stars": 9167
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2026-08-26T10:37:30Z",
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3530
+            "stars": 3531
           }
         },
         {
@@ -700,7 +700,7 @@
             "last_commit": "2026-08-14T23:02:15Z",
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8731
+            "stars": 8735
           }
         },
         {
@@ -751,7 +751,7 @@
             "last_commit": "2026-07-27T00:18:55Z",
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9759
+            "stars": 9760
           }
         },
         {
@@ -1242,9 +1242,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:07:59.224Z",
-    "original_repository": "websemantics/awesome-ant-design",
-    "original_repository_id": 64331013,
+    "last_updated": "2026-08-27T11:22:48.343Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 64331013,
+      "language": null,
+      "last_commit": "2025-07-29T08:15:52Z",
+      "owner": "websemantics",
+      "repo": "awesome-ant-design",
+      "stars": 3298
+    },
     "original_repository_sha": "7afce368a9a5b871f3f0dc9e8bef71a821f2841b",
     "enhanced_repository": "enhansome/enhansome-ant-design",
     "enhanced_repository_description": null,
