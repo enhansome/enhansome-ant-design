@@ -16,7 +16,8 @@
             "owner": "dvajs",
             "repo": "dva-cli",
             "stars": 959
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ant-design",
             "repo": "antd-init",
             "stars": 810
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "jannikbuschke",
             "repo": "formik-antd",
             "stars": 587
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "fi3ework",
             "repo": "vscode-antd-rush",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "limichange",
             "repo": "zaku",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "codetrial",
             "repo": "generator-antd-pro",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "garrett12138",
             "repo": "antd-pro-generator",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "hutxs",
             "repo": "react-antd",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         }
       ],
       "title": "Tools"
@@ -142,7 +150,8 @@
             "owner": "mzohaibqc",
             "repo": "antd-theme-webpack-plugin",
             "stars": 366
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "mzohaibqc",
             "repo": "antd-theme-generator",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "luffyZh",
             "repo": "dynamic-antd-theme",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "letshare",
             "repo": "storybook-addon-customize-antd-theme",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "children": [
@@ -204,7 +216,8 @@
                 "owner": "ant-design",
                 "repo": "ant-design-dark-theme",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-28T07:06:32.249Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "ant-design",
                 "repo": "ant-design-aliyun-theme",
                 "stars": 308
-              }
+              },
+              "first_seen": "2026-08-28T07:06:32.249Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "Kuechlin",
                 "repo": "ant-dark-theme",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T07:06:32.249Z"
             }
           ],
           "description": null,
@@ -260,7 +275,8 @@
             "owner": "ant-design",
             "repo": "x",
             "stars": 4745
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -275,7 +291,8 @@
             "owner": "ant-design",
             "repo": "ant-design-web3",
             "stars": 1145
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -290,7 +307,8 @@
             "owner": "G2-JS",
             "repo": "feedback",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -305,7 +323,8 @@
             "owner": "G2-JS",
             "repo": "feedback",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         }
       ],
       "title": "Related Projects"
@@ -326,7 +345,8 @@
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9167
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -341,7 +361,8 @@
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd-mobile",
             "stars": 807
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         }
       ],
       "title": "Angular"
@@ -362,7 +383,8 @@
             "owner": "vueComponent",
             "repo": "ant-design-vue",
             "stars": 21633
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -376,8 +398,9 @@
             "last_commit": "2024-05-08T03:36:04Z",
             "owner": "iczer",
             "repo": "vue-antd-admin",
-            "stars": 3664
-          }
+            "stars": 3663
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -392,7 +415,8 @@
             "owner": "FE-Driver",
             "repo": "vue-beauty",
             "stars": 2099
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -407,7 +431,8 @@
             "owner": "zzuu666",
             "repo": "antue",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -422,7 +447,8 @@
             "owner": "kokoroX",
             "repo": "vue-ant-ui",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -437,7 +463,8 @@
             "owner": "lileilei",
             "repo": "Ant-design-vue",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         }
       ],
       "title": "Vue.js"
@@ -458,7 +485,8 @@
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3531
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -473,7 +501,8 @@
             "owner": "ElderJames",
             "repo": "ant-design-blazor",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         }
       ],
       "title": "Blazor"
@@ -494,7 +523,8 @@
             "owner": "leejaen",
             "repo": "react-lz-editor",
             "stars": 946
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -509,7 +539,8 @@
             "owner": "Leonard-Li777",
             "repo": "antd-table-infinity",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -524,7 +555,8 @@
             "owner": "viewweiwu",
             "repo": "amiya",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -539,7 +571,8 @@
             "owner": "NewbeeFE",
             "repo": "antd-data-table",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -554,7 +587,8 @@
             "owner": "typesnippet",
             "repo": "antd-phone-input",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -569,7 +603,8 @@
             "owner": "Kombustor",
             "repo": "antd-password-input-strength",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -584,7 +619,8 @@
             "owner": "mzohaibqc",
             "repo": "antd-amplify-react",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -599,7 +635,8 @@
             "owner": "huhulab",
             "repo": "antd-kit",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -614,7 +651,8 @@
             "owner": "hsbalar",
             "repo": "ngx-recursive-form",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -629,7 +667,8 @@
             "owner": "kagawagao",
             "repo": "react-grid",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -644,7 +683,8 @@
             "owner": "huyennbl",
             "repo": "antd-group-slider",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         }
       ],
       "title": "Components"
@@ -665,7 +705,8 @@
             "owner": "ant-design",
             "repo": "sunflower",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -680,7 +721,8 @@
             "owner": "hemengke1997",
             "repo": "use-antd-resizable-header",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         }
       ],
       "title": "React Hooks"
@@ -700,8 +742,9 @@
             "last_commit": "2026-08-14T23:02:15Z",
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8735
-          }
+            "stars": 8739
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -716,7 +759,8 @@
             "owner": "dhruv-kumar-jha",
             "repo": "productivity-frontend",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -731,7 +775,8 @@
             "owner": "pizn",
             "repo": "eevee",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         }
       ],
       "title": "Applications"
@@ -752,7 +797,8 @@
             "owner": "zuiidea",
             "repo": "antd-admin",
             "stars": 9760
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -767,7 +813,8 @@
             "owner": "ng-alain",
             "repo": "ng-alain",
             "stars": 4529
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -782,7 +829,8 @@
             "owner": "ant-design",
             "repo": "create-react-app-antd",
             "stars": 576
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -797,7 +845,8 @@
             "owner": "JasonBai007",
             "repo": "reactSPA",
             "stars": 512
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -812,7 +861,8 @@
             "owner": "peterchenhdu",
             "repo": "webbf",
             "stars": 447
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -827,7 +877,8 @@
             "owner": "Justin-lu",
             "repo": "react-redux-antd",
             "stars": 415
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -842,7 +893,8 @@
             "owner": "YDJ-FE",
             "repo": "ts-react-vite_or_webpack",
             "stars": 362
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -857,7 +909,8 @@
             "owner": "ychengcloud",
             "repo": "react-vite-admin",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -872,7 +925,8 @@
             "owner": "chenliang2016",
             "repo": "CLReactAntDesign",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -887,7 +941,8 @@
             "owner": "xlsdg",
             "repo": "dva-antd-mobile-starter",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -902,7 +957,8 @@
             "owner": "comerc",
             "repo": "cra-ts-antd",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -917,7 +973,8 @@
             "owner": "yuzhouisme",
             "repo": "react-antd-redux-router-starter",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -932,7 +989,8 @@
             "owner": "jovey-zheng",
             "repo": "react-start-kit",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -947,7 +1005,8 @@
             "owner": "betarabbit",
             "repo": "react-redux-antd-starter",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -962,7 +1021,8 @@
             "owner": "VincentCordobes",
             "repo": "the-green-meal",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -977,7 +1037,8 @@
             "owner": "pookpal",
             "repo": "star-initReact-example",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -992,7 +1053,8 @@
             "owner": "yukrain",
             "repo": "koa-antd-admin",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -1007,7 +1069,8 @@
             "owner": "LeuisKen",
             "repo": "react-redux-intro",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -1022,7 +1085,8 @@
             "owner": "xlsdg",
             "repo": "dva-antd-starter",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -1037,7 +1101,8 @@
             "owner": "BANG88",
             "repo": "aspnet-core-react-antd-boilerplate",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -1052,7 +1117,8 @@
             "owner": "huhulab",
             "repo": "react-frontend-boilerplate",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -1067,7 +1133,8 @@
             "owner": "subenksaha",
             "repo": "react-redux-universal",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -1082,7 +1149,8 @@
             "owner": "Atyantik",
             "repo": "example-pawjs-ant-design",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -1097,7 +1165,8 @@
             "owner": "cupools",
             "repo": "todoMVC-react",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -1112,7 +1181,8 @@
             "owner": "elmarti",
             "repo": "meteor-antd-boilerplate",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         }
       ],
       "title": "Boilerplates"
@@ -1133,7 +1203,8 @@
             "owner": "reagent-project",
             "repo": "reagent",
             "stars": 4887
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -1148,7 +1219,8 @@
             "owner": "priornix",
             "repo": "antizer",
             "stars": 262
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         }
       ],
       "title": "Non-JavaScript Libraries"
@@ -1169,7 +1241,8 @@
             "owner": "thundernet8",
             "repo": "StarCabinet",
             "stars": 408
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -1184,7 +1257,8 @@
             "owner": "nowa-webpack",
             "repo": "nowa-gui",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         }
       ],
       "title": "Electron"
@@ -1205,7 +1279,8 @@
             "owner": "ant-design",
             "repo": "ant-design-icons",
             "stars": 1089
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -1220,7 +1295,8 @@
             "owner": "fjc0k",
             "repo": "ant-design-icons",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         },
         {
           "node_type": "item",
@@ -1235,14 +1311,15 @@
             "owner": "2fd",
             "repo": "ant-design-icons",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
         }
       ],
       "title": "Icons"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:48.343Z",
+    "last_updated": "2026-08-28T07:06:32.249Z",
     "original_repository_info": {
       "archived": false,
       "id": 64331013,
