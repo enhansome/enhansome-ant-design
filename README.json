@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The dva command line utility.",
+            "homepage": null,
             "id": 63938330,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-03-17T02:38:54Z",
+            "open_issues": 67,
             "owner": "dvajs",
             "repo": "dva-cli",
-            "stars": 959
+            "stars": 959,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":beginner: Ant Design boilerplate generator.",
+            "homepage": null,
             "id": 45030237,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-04T09:26:58Z",
+            "open_issues": 19,
             "owner": "ant-design",
             "repo": "antd-init",
-            "stars": 810
+            "stars": 810,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -42,12 +52,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple declarative bindings for Ant Design and Formik.",
+            "homepage": "https://codesandbox.io/s/github/jannikbuschke/formik-antd-example",
             "id": 163895941,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-11-11T19:09:44Z",
+            "open_issues": 48,
             "owner": "jannikbuschke",
             "repo": "formik-antd",
-            "stars": 587
+            "stars": 587,
+            "topics": [
+              "ant-design",
+              "antd",
+              "declarative",
+              "formik",
+              "forms",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -58,12 +80,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌈 Ant Design cheatsheet in VS Code.",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=fi3ework.vscode-antd-rush",
             "id": 228765615,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T15:48:31Z",
+            "open_issues": 9,
             "owner": "fi3ework",
             "repo": "vscode-antd-rush",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "antd",
+              "antd-design",
+              "react",
+              "typescript",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -74,12 +108,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WIP] A JSX-based UI builder for auto generate code.",
+            "homepage": "https://limichange.github.io/zaku/",
             "id": 230768758,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-20T21:46:40Z",
+            "open_issues": 18,
             "owner": "limichange",
             "repo": "zaku",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "editor",
+              "electron",
+              "jsx",
+              "react",
+              "ui-builder",
+              "visual-programming",
+              "visual-studio"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -90,12 +137,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy way to build your ant-design-pro application.",
+            "homepage": "https://generator-antd-pro.netlify.com",
             "id": 161618096,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-02T20:03:10Z",
+            "open_issues": 1,
             "owner": "codetrial",
             "repo": "generator-antd-pro",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "admin",
+              "ant-design",
+              "ant-design-pro",
+              "boilerplate",
+              "dashboard",
+              "generator",
+              "react",
+              "yeoman",
+              "yeoman-generator"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -106,12 +168,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ant design pro service,mock,model generator",
+            "homepage": null,
             "id": 254817408,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-11T01:16:44Z",
+            "open_issues": 6,
             "owner": "garrett12138",
             "repo": "antd-pro-generator",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "ant",
+              "design",
+              "dva",
+              "generator",
+              "pro"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -122,12 +195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 51938213,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2017-04-11T11:43:26Z",
+            "open_issues": 0,
             "owner": "hutxs",
             "repo": "react-antd",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         }
@@ -144,12 +222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A webpack plugin for Dynamic theme generation for Ant Design",
+            "homepage": "https://mzohaibqc.github.io/antd-theme-webpack-plugin/index.html",
             "id": 130117936,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-06T04:42:58Z",
+            "open_issues": 73,
             "owner": "mzohaibqc",
             "repo": "antd-theme-webpack-plugin",
-            "stars": 366
+            "stars": 366,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -160,12 +243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This script is to generate color.less file to update color related css in browser.",
+            "homepage": "https://mzohaibqc.github.io/antd-theme-generator/",
             "id": 131262247,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-08T03:18:11Z",
+            "open_issues": 58,
             "owner": "mzohaibqc",
             "repo": "antd-theme-generator",
-            "stars": 358
+            "stars": 358,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -176,12 +264,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🌈 A simple plugin to dynamic change ant-design theme whether less or css. ",
+            "homepage": "https://dynamic-antd-theme.luffyzh.now.sh/",
             "id": 191863123,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-01-11T07:09:48Z",
+            "open_issues": 17,
             "owner": "luffyZh",
             "repo": "dynamic-antd-theme",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "ant-design",
+              "antd",
+              "css",
+              "dynamic",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -192,12 +291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Storybook addon help you visually customize an ant design theme",
+            "homepage": null,
             "id": 409821361,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-10T06:46:05Z",
+            "open_issues": 5,
             "owner": "letshare",
             "repo": "storybook-addon-customize-antd-theme",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -210,12 +314,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌚 Dark theme variables of Ant Design",
+                "homepage": "https://www.antdtheme.com/dark",
                 "id": 188952079,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-03-05T08:38:23Z",
+                "open_issues": 21,
                 "owner": "ant-design",
                 "repo": "ant-design-dark-theme",
-                "stars": 476
+                "stars": 476,
+                "topics": [
+                  "ant-design",
+                  "ant-design-pro",
+                  "antd",
+                  "dark-theme",
+                  "less"
+                ]
               },
               "first_seen": "2026-08-28T07:06:32.249Z"
             },
@@ -226,12 +341,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚙ Ant Design Theme for console.aliyun.com",
+                "homepage": null,
                 "id": 196127280,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-08-29T03:36:54Z",
+                "open_issues": 7,
                 "owner": "ant-design",
                 "repo": "ant-design-aliyun-theme",
-                "stars": 308
+                "stars": 308,
+                "topics": [
+                  "aliyun",
+                  "ant-design",
+                  "antd",
+                  "css",
+                  "less",
+                  "theme",
+                  "umi"
+                ]
               },
               "first_seen": "2026-08-28T07:06:32.249Z"
             },
@@ -242,12 +370,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Dark Theme variables for Ant Design",
+                "homepage": null,
                 "id": 197364852,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-12-11T16:33:14Z",
+                "open_issues": 7,
                 "owner": "Kuechlin",
                 "repo": "ant-dark-theme",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:06:32.249Z"
             }
@@ -269,12 +402,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Craft AI-driven interface effortlessly🤖",
+            "homepage": "https://x.ant.design",
             "id": 798235565,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-10T03:53:13Z",
+            "open_issues": 166,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4745
+            "stars": 4746,
+            "topics": [
+              "ai",
+              "antd",
+              "chat-ui",
+              "copilot",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -285,12 +429,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥳 Efficient react components for building dapps easier | Connect crypto wallets and more Web3 UI components | Web3 icons | Supports Ethereum, Solana, Bitcoin, TON, Sui, TRON and others.",
+            "homepage": "https://web3.ant.design",
             "id": 680030799,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-22T06:21:32Z",
+            "open_issues": 62,
             "owner": "ant-design",
             "repo": "ant-design-web3",
-            "stars": 1145
+            "stars": 1145,
+            "topics": [
+              "antd",
+              "bitcoin",
+              "ethereum",
+              "react",
+              "solana",
+              "ton",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -301,12 +458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Antv  的反馈库",
+            "homepage": null,
             "id": 58516646,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2017-12-15T04:37:15Z",
+            "open_issues": 83,
             "owner": "G2-JS",
             "repo": "feedback",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -317,12 +479,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Antv  的反馈库",
+            "homepage": null,
             "id": 58516646,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2017-12-15T04:37:15Z",
+            "open_issues": 83,
             "owner": "G2-JS",
             "repo": "feedback",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         }
@@ -339,12 +506,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular UI Component Library based on Ant Design",
+            "homepage": "https://ng.ant.design",
             "id": 99705100,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T05:31:27Z",
+            "open_issues": 783,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9167
+            "stars": 9166,
+            "topics": [
+              "angular",
+              "angular-components",
+              "angular-directives",
+              "angular-ui-components",
+              "ant",
+              "ant-design",
+              "antd",
+              "enterprise",
+              "frontend",
+              "ivy",
+              "ng-zorro",
+              "ngx",
+              "typescript",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -355,12 +542,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A configurable Mobile UI components based on Ant Design Mobile and Angular. 🐜",
+            "homepage": "http://ng.mobile.ant.design",
             "id": 145691175,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-09T09:40:39Z",
+            "open_issues": 61,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd-mobile",
-            "stars": 807
+            "stars": 807,
+            "topics": [
+              "alibaba",
+              "angular",
+              "angular-components",
+              "angular-directives",
+              "ant",
+              "ant-design",
+              "ant-design-mobile",
+              "antd",
+              "enterprise",
+              "frontend",
+              "gitter",
+              "ionic",
+              "mobile",
+              "mobile-ui",
+              "ng-zorro",
+              "ng-zorro-antd-mobile",
+              "ng-zorro-mobile",
+              "ngx",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         }
@@ -377,12 +589,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜",
+            "homepage": "https://antdv.com/",
             "id": 104172832,
             "language": "Vue",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T23:48:22Z",
+            "open_issues": 124,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21633
+            "stars": 21634,
+            "topics": [
+              "ant",
+              "ant-design",
+              "antd",
+              "antd-vue",
+              "css",
+              "enterprise",
+              "frontend",
+              "react",
+              "ui",
+              "ui-design",
+              "vue",
+              "vue-antd",
+              "vue-antd-ui",
+              "vue3",
+              "vuecomponent"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -393,12 +626,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐜 Ant Design Pro's implementation with Vue",
+            "homepage": "https://iczer.gitee.io/vue-antd-admin",
             "id": 141654164,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2024-05-08T03:36:04Z",
+            "open_issues": 98,
             "owner": "iczer",
             "repo": "vue-antd-admin",
-            "stars": 3663
+            "stars": 3663,
+            "topics": [
+              "admin",
+              "ant",
+              "ant-design",
+              "ant-design-pro",
+              "antd",
+              "design",
+              "template",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -409,12 +656,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beautiful  UI components build with vue and ant design",
+            "homepage": "https://fe-driver.github.io/vue-beauty",
             "id": 65170293,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-06T08:45:27Z",
+            "open_issues": 63,
             "owner": "FE-Driver",
             "repo": "vue-beauty",
-            "stars": 2099
+            "stars": 2099,
+            "topics": [
+              "components",
+              "javascript",
+              "ui-design",
+              "ui-kit",
+              "vue",
+              "vue-beauty",
+              "vue-components"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -425,12 +685,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌟 A set of enterprise-class Vue UI components,  following the Ant Design specification.",
+            "homepage": "https://zzuu666.github.io/antue",
             "id": 103497212,
             "language": "Less",
+            "license": "MIT",
             "last_commit": "2026-03-01T09:40:32Z",
+            "open_issues": 1,
             "owner": "zzuu666",
             "repo": "antue",
-            "stars": 257
+            "stars": 257,
+            "topics": [
+              "ant-design",
+              "component",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -441,12 +710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ant UI的vue实现",
+            "homepage": "http://kokorox.github.io/vue-ant-ui",
             "id": 60836681,
             "language": "Vue",
+            "license": null,
             "last_commit": "2016-12-28T03:22:57Z",
+            "open_issues": 5,
             "owner": "kokoroX",
             "repo": "vue-ant-ui",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -457,12 +731,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "antd  的vue版本",
+            "homepage": null,
             "id": 62781589,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-03-02T03:18:54Z",
+            "open_issues": 0,
             "owner": "lileilei",
             "repo": "Ant-design-vue",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         }
@@ -479,12 +758,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Tailwind, Bulma, AntDesign, and Material.",
+            "homepage": "https://blazorise.com/",
             "id": 159973917,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T10:37:30Z",
+            "open_issues": 74,
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3531
+            "stars": 3531,
+            "topics": [
+              "antdesign",
+              "blazor",
+              "blazor-components",
+              "bootstrap",
+              "bootstrap4",
+              "bootstrap5",
+              "bulma",
+              "component",
+              "component-library",
+              "components",
+              "material",
+              "tailwind",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -495,12 +793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.",
+            "homepage": "https://antblazor.com/",
             "id": 492493732,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-08-20T23:02:24Z",
+            "open_issues": 0,
             "owner": "ElderJames",
             "repo": "ant-design-blazor",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         }
@@ -517,12 +820,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multilingual react rich-text editor component includes media support such as texts, images, videos, audios, links etc. Development based on Draft-Js and Ant-design, good support html, markdown, draft-raw mode. 一款基于 draft-Js 和 ant-design 实现的 react 富文本编辑器组件，支持文本、图片、视频、音频、链接等元素插入，同时支持HTML、markdown、draft Raw格式。 ",
+            "homepage": "https://leejaen.github.io/react-lz-editor/index.html",
             "id": 77431919,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-06T23:14:20Z",
+            "open_issues": 102,
             "owner": "leejaen",
             "repo": "react-lz-editor",
-            "stars": 946
+            "stars": 946,
+            "topics": [
+              "ant-design",
+              "antd-editor",
+              "draft-js",
+              "react-editor",
+              "react-lz-editor",
+              "text-editor",
+              "web-editor"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -533,12 +849,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An infinite scroll component based on antd-table that supports virtual scrolling",
+            "homepage": null,
             "id": 147159427,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-17T20:16:51Z",
+            "open_issues": 40,
             "owner": "Leonard-Li777",
             "repo": "antd-table-infinity",
-            "stars": 287
+            "stars": 287,
+            "topics": [
+              "antd",
+              "infinity-scroll",
+              "pagetable",
+              "react",
+              "table",
+              "virtual-scroll"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -549,12 +877,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "让 antd4 用起来更省心",
+            "homepage": "https://viewweiwu.github.io/amiya/",
             "id": 287226567,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-12-02T05:43:19Z",
+            "open_issues": 8,
             "owner": "viewweiwu",
             "repo": "amiya",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -565,12 +898,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A component that combines antd's Table and Form to do the search, display, and operating jobs for data.",
+            "homepage": "https://newbeefe.github.io/antd-data-table/",
             "id": 101040041,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2019-10-29T14:47:14Z",
+            "open_issues": 16,
             "owner": "NewbeeFE",
             "repo": "antd-data-table",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "antd",
+              "react",
+              "react-form-component",
+              "storybook"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -581,12 +924,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced, highly customizable phone input component for Ant Design.",
+            "homepage": "https://playground.typesnippet.org/antd-phone-input-5.x/",
             "id": 606501380,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-22T08:49:18Z",
+            "open_issues": 0,
             "owner": "typesnippet",
             "repo": "antd-phone-input",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "advanced",
+              "ant",
+              "ant-design",
+              "antd",
+              "component",
+              "customizable",
+              "design",
+              "hacktoberfest",
+              "input",
+              "number",
+              "phone",
+              "phone-number",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -597,12 +959,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AntD Input component with password-strength indicator.",
+            "homepage": null,
             "id": 157224506,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-09-06T07:51:09Z",
+            "open_issues": 3,
             "owner": "Kombustor",
             "repo": "antd-password-input-strength",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "ant-design",
+              "antd",
+              "input",
+              "password-strength",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -613,12 +986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ant Design components for Aws Amplify Auth flow. ",
+            "homepage": null,
             "id": 150803771,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2018-10-01T09:58:36Z",
+            "open_issues": 1,
             "owner": "mzohaibqc",
             "repo": "antd-amplify-react",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -629,12 +1007,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced ant design components",
+            "homepage": null,
             "id": 65363768,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-08-31T08:25:18Z",
+            "open_issues": 0,
             "owner": "huhulab",
             "repo": "antd-kit",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -645,12 +1028,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular recursive form at any level based on your json input.",
+            "homepage": "https://www.hiteshbalar.com/ngx-recursive-form/",
             "id": 148315534,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-10-25T09:57:13Z",
+            "open_issues": 2,
             "owner": "hsbalar",
             "repo": "ngx-recursive-form",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "angular6",
+              "hacktoberfest",
+              "ng-zorro-antd",
+              "reactive-forms",
+              "recursive-forms"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -661,12 +1055,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Deprecated]React UI Component - Grid(Based on Ant Design)",
+            "homepage": null,
             "id": 50970755,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-11-23T03:24:27Z",
+            "open_issues": 0,
             "owner": "kagawagao",
             "repo": "react-grid",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -677,12 +1076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 344150228,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-10-17T13:35:24Z",
+            "open_issues": 1,
             "owner": "huyennbl",
             "repo": "antd-group-slider",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         }
@@ -699,12 +1103,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦹 Process components for antd4 & antd3 by alipay industry technology",
+            "homepage": "https://ant-design.github.io/sunflower",
             "id": 191705543,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-02-04T02:12:55Z",
+            "open_issues": 30,
             "owner": "ant-design",
             "repo": "sunflower",
-            "stars": 490
+            "stars": 490,
+            "topics": [
+              "ant-design",
+              "antd",
+              "react",
+              "react-component",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -715,12 +1130,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "antd table 表格头列拖拽 hook / React Hook makes antd Table Header resizable.",
+            "homepage": "https://hemengke1997.github.io/use-antd-resizable-header/",
             "id": 383839916,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-10T02:51:57Z",
+            "open_issues": 25,
             "owner": "hemengke1997",
             "repo": "use-antd-resizable-header",
-            "stars": 274
+            "stars": 274,
+            "topics": [
+              "ant-design",
+              "drag",
+              "react-hook",
+              "resizable-columns",
+              "resizable-header",
+              "table"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         }
@@ -737,12 +1164,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React",
+            "homepage": "https://cloud.idurarapp.com",
             "id": 304981340,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-14T23:02:15Z",
+            "open_issues": 489,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8739
+            "stars": 8742,
+            "topics": [
+              "accounting",
+              "accounting-software",
+              "crm",
+              "crm-platform",
+              "crm-system",
+              "e-commerce",
+              "ecommerce",
+              "erp",
+              "erp-application",
+              "erp-software",
+              "invoice",
+              "invoice-software",
+              "invoicing",
+              "invoicing-application",
+              "invoicing-software",
+              "mern-project",
+              "mern-stack",
+              "mongoose",
+              "open-source-crm",
+              "open-source-erp"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -753,12 +1206,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Productivity Application - Kanban Style Productivity Management Application with Customizable Boards, Lists and Cards to Make You More Productive.",
+            "homepage": "https://react-static-website.firebaseapp.com/",
             "id": 83645330,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-25T12:24:44Z",
+            "open_issues": 0,
             "owner": "dhruv-kumar-jha",
             "repo": "productivity-frontend",
-            "stars": 248
+            "stars": 248,
+            "topics": [
+              "ant-design",
+              "apollo-client",
+              "babel",
+              "es6",
+              "graphql-client",
+              "netlify",
+              "progressive-web-app",
+              "pwa",
+              "react",
+              "react-intl",
+              "react-router",
+              "service-worker",
+              "sortablejs",
+              "spa",
+              "webpack2"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -769,12 +1243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 github page 的在线编辑 blog 平台",
+            "homepage": null,
             "id": 44947592,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-02-04T07:26:41Z",
+            "open_issues": 5,
             "owner": "pizn",
             "repo": "eevee",
-            "stars": 173
+            "stars": 173,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         }
@@ -791,12 +1270,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-friendly enterprise front-end best practices",
+            "homepage": "https://antd-admin.zuiidea.top",
             "id": 50334710,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-27T00:18:55Z",
+            "open_issues": 38,
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9760
+            "stars": 9760,
+            "topics": [
+              "admin",
+              "antd",
+              "dashboard",
+              "mock",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -807,12 +1297,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NG-ZORRO admin panel front-end framework",
+            "homepage": "https://ng-alain.com",
             "id": 100562563,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-16T07:31:01Z",
+            "open_issues": 36,
             "owner": "ng-alain",
             "repo": "ng-alain",
-            "stars": 4529
+            "stars": 4529,
+            "topics": [
+              "angular",
+              "angular-applications",
+              "angular-components",
+              "angular-seed",
+              "angular-start",
+              "angular10",
+              "angular9",
+              "ant-design",
+              "antd",
+              "antd-design-pro",
+              "delon",
+              "ng-alain",
+              "ng-zorro",
+              "ng-zorro-antd"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -823,12 +1333,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use antd in create-react-app without ejecting ✨",
+            "homepage": "https://ant.design/docs/react/use-with-create-react-app",
             "id": 76842453,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-04T06:44:59Z",
+            "open_issues": 42,
             "owner": "ant-design",
             "repo": "create-react-app-antd",
-            "stars": 576
+            "stars": 576,
+            "topics": [
+              "ant-design",
+              "antd",
+              "craco",
+              "create-react-app",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -839,12 +1360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Demo SPA developed with React, ES6, Webpack (2.x), and Antd (1.0.1) 【move to react-seed】",
+            "homepage": "http://jasonbai007.github.io/reactSPA/",
             "id": 59460294,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-06-27T02:10:01Z",
+            "open_issues": 1,
             "owner": "JasonBai007",
             "repo": "reactSPA",
-            "stars": 512
+            "stars": 512,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -855,12 +1381,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Web工程demo 后端：spring + spring mvc + mybatis + maven，涉及定时任务quartz、ehcache缓存、RESTful API、邮件发送... 前端：react + reflux + webpack，涉及ES6、jquery、react-router、ant design等内容， 提供下思路，仅供参考。",
+            "homepage": "http://www.cnblogs.com/chenpi/p/5652555.html",
             "id": 62851278,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2018-09-17T15:03:04Z",
+            "open_issues": 4,
             "owner": "peterchenhdu",
             "repo": "webbf",
-            "stars": 447
+            "stars": 447,
+            "topics": [
+              "ant-design",
+              "babel",
+              "es6",
+              "mybatis",
+              "react",
+              "restful-api",
+              "spring-mvc",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -871,12 +1411,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "react redux for CMS/Enterprise class App/ERP/Admin with ant-design",
+            "homepage": "https://github.com/Justin-lu/react-redux-antd",
             "id": 63518388,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-08-01T05:24:34Z",
+            "open_issues": 3,
             "owner": "Justin-lu",
             "repo": "react-redux-antd",
-            "stars": 415
+            "stars": 415,
+            "topics": [
+              "ant-design",
+              "react",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -887,12 +1436,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a starter-template with typescript, react, mobx and vite/webpack...",
+            "homepage": "https://starter.jackple.com/",
             "id": 125148901,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-27T10:20:56Z",
+            "open_issues": 4,
             "owner": "YDJ-FE",
             "repo": "ts-react-vite_or_webpack",
-            "stars": 362
+            "stars": 362,
+            "topics": [
+              "admin-dashboard",
+              "admin-template",
+              "mobx",
+              "react",
+              "starter-template",
+              "typescript",
+              "vite",
+              "vitejs",
+              "webpack5"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -903,12 +1467,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This Starter utilizes React, Recoil, React Query, React Hooks, Typescript, Axios And Vite. 全新技术栈的后台管理系统",
+            "homepage": null,
             "id": 352893257,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-11-10T01:03:21Z",
+            "open_issues": 0,
             "owner": "ychengcloud",
             "repo": "react-vite-admin",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "antd",
+              "antd-design",
+              "antd-design-pro",
+              "axios",
+              "boilerplate",
+              "react",
+              "react-hooks",
+              "react-query",
+              "recoil",
+              "template",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -919,12 +1501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于antdesign 前端框架搭建的企业后台管理软件",
+            "homepage": null,
             "id": 63663024,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-10-22T06:30:51Z",
+            "open_issues": 3,
             "owner": "chenliang2016",
             "repo": "CLReactAntDesign",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -935,12 +1522,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get started with Dva.js and Ant Design mobile.",
+            "homepage": "https://xlsdg.github.io/dva-antd-mobile-starter/",
             "id": 78623849,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-24T06:03:47Z",
+            "open_issues": 2,
             "owner": "xlsdg",
             "repo": "dva-antd-mobile-starter",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "antd-mobile",
+              "dva",
+              "react",
+              "roadhog",
+              "starter"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -951,12 +1549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create-React-App + TypeScript + Ant-Design (without Eject)",
+            "homepage": "https://habrahabr.ru/post/334572/",
             "id": 98878467,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2017-12-16T20:55:09Z",
+            "open_issues": 1,
             "owner": "comerc",
             "repo": "cra-ts-antd",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -967,12 +1570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project is designed to help those who use antd to develop a website(or web app). Maybe also need to use redux, router and so on.",
+            "homepage": null,
             "id": 54624116,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-03-25T00:38:04Z",
+            "open_issues": 0,
             "owner": "yuzhouisme",
             "repo": "react-antd-redux-router-starter",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -983,12 +1591,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A boilerplate of SPA, built with React.js, Webpack, ES6+, Redux, Router, Babel, Express, Ant Design...",
+            "homepage": null,
             "id": 50341268,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-23T08:47:00Z",
+            "open_issues": 0,
             "owner": "jovey-zheng",
             "repo": "react-start-kit",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "ant-design",
+              "babel",
+              "react",
+              "redux",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -999,12 +1618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React + Redux + Ant-Design frontend boilerplate",
+            "homepage": null,
             "id": 52318852,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-01-15T19:33:36Z",
+            "open_issues": 0,
             "owner": "betarabbit",
             "repo": "react-redux-antd-starter",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1015,12 +1639,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🍒 Keep track of your meals calories",
+            "homepage": "https://the-green-meal.herokuapp.com",
             "id": 198815301,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-07-21T23:09:56Z",
+            "open_issues": 4,
             "owner": "VincentCordobes",
             "repo": "the-green-meal",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "antd",
+              "nextjs",
+              "react",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1031,12 +1665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "demo with react,ant-design,redux,react-router,webpack,babel",
+            "homepage": null,
             "id": 64824982,
             "language": "CSS",
+            "license": null,
             "last_commit": "2016-12-12T03:42:33Z",
+            "open_issues": 2,
             "owner": "pookpal",
             "repo": "star-initReact-example",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1047,12 +1686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用Koa+Antd+React搭建的后台Demo",
+            "homepage": null,
             "id": 57193878,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-09-06T02:22:02Z",
+            "open_issues": 0,
             "owner": "yukrain",
             "repo": "koa-antd-admin",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1063,12 +1707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "该项目中包含初始化一个React-Redux项目所需的基本配置，并包含一个基于ant-design的demo。",
+            "homepage": null,
             "id": 52421266,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2016-07-26T06:50:30Z",
+            "open_issues": 0,
             "owner": "LeuisKen",
             "repo": "react-redux-intro",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1079,12 +1728,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get started with Dva.js and Ant Design.",
+            "homepage": "https://xlsdg.github.io/dva-antd-starter/",
             "id": 78623728,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-03-07T03:07:55Z",
+            "open_issues": 0,
             "owner": "xlsdg",
             "repo": "dva-antd-starter",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "ant-design",
+              "dva",
+              "react",
+              "roadhog",
+              "starter"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1095,12 +1755,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Server Side Rendering antd with ASP.NET CORE ",
+            "homepage": null,
             "id": 86895971,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-10-19T10:05:52Z",
+            "open_issues": 4,
             "owner": "BANG88",
             "repo": "aspnet-core-react-antd-boilerplate",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1111,12 +1776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React admin frontend project boilerplate (Based on ant.design)",
+            "homepage": "http://demo-static.huhulab.com/react-frontend-boilerplate/#/demo/test_forms",
             "id": 53386805,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-04-25T05:04:22Z",
+            "open_issues": 0,
             "owner": "huhulab",
             "repo": "react-frontend-boilerplate",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1127,12 +1797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Redux Isomorphic Webpack 2 Boilerplate based on ant.design",
+            "homepage": null,
             "id": 91891228,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-09T15:01:24Z",
+            "open_issues": 0,
             "owner": "subenksaha",
             "repo": "react-redux-universal",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1143,12 +1818,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example repository for integrating Ant Design with ReactPWA project. This repo demonstrates the usage & integration of Ant Design in existing ReactPWA project.",
+            "homepage": "https://www.reactpwa.com/examples/ant-design",
             "id": 153069965,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-13T11:51:16Z",
+            "open_issues": 2,
             "owner": "Atyantik",
             "repo": "example-pawjs-ant-design",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "ant-design",
+              "antd",
+              "pawjs",
+              "pwa",
+              "react-pwa",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1159,12 +1846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Todo list with React and Ant Design",
+            "homepage": null,
             "id": 61349116,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-09-13T09:10:13Z",
+            "open_issues": 0,
             "owner": "cupools",
             "repo": "todoMVC-react",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1175,12 +1867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://antdmeteor.herokuapp.com/",
             "id": 97587866,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-11-06T14:59:15Z",
+            "open_issues": 18,
             "owner": "elmarti",
             "repo": "meteor-antd-boilerplate",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         }
@@ -1197,12 +1894,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalistic ClojureScript interface to React.js",
+            "homepage": "http://reagent-project.github.io/",
             "id": 15290592,
             "language": "Clojure",
+            "license": "MIT",
             "last_commit": "2026-08-19T07:18:08Z",
+            "open_issues": 27,
             "owner": "reagent-project",
             "repo": "reagent",
-            "stars": 4887
+            "stars": 4887,
+            "topics": [
+              "clojure",
+              "clojurescript",
+              "frontend",
+              "hiccup",
+              "react",
+              "reagent"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1213,12 +1922,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ClojureScript library for Ant Design React UI components",
+            "homepage": null,
             "id": 95835101,
             "language": "Clojure",
+            "license": "EPL-1.0",
             "last_commit": "2020-08-09T15:34:51Z",
+            "open_issues": 17,
             "owner": "priornix",
             "repo": "antizer",
-            "stars": 262
+            "stars": 262,
+            "topics": [
+              "ant-design",
+              "antd",
+              "cljs",
+              "clojurescript",
+              "frontend",
+              "react",
+              "reagent",
+              "reagent-components",
+              "rum",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         }
@@ -1235,12 +1960,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":tada: 开源的跨平台Github Stars管理分析工具",
+            "homepage": null,
             "id": 81653005,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2018-02-07T14:15:00Z",
+            "open_issues": 8,
             "owner": "thundernet8",
             "repo": "StarCabinet",
-            "stars": 408
+            "stars": 408,
+            "topics": [
+              "antd",
+              "electron",
+              "github-stars",
+              "mobx",
+              "react",
+              "react-redux",
+              "redux-thunk",
+              "rxdb",
+              "webpack2"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1251,12 +1991,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 82277464,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2020-07-27T01:39:51Z",
+            "open_issues": 19,
             "owner": "nowa-webpack",
             "repo": "nowa-gui",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "antd",
+              "dva",
+              "electron",
+              "nowa",
+              "react",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         }
@@ -1273,12 +2025,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⭐ Ant Design SVG Icons",
+            "homepage": "https://ant.design/components/icon/",
             "id": 139113100,
             "language": "TypeScript",
-            "last_commit": "2026-07-06T01:25:51Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T08:15:15Z",
+            "open_issues": 103,
             "owner": "ant-design",
             "repo": "ant-design-icons",
-            "stars": 1089
+            "stars": 1089,
+            "topics": [
+              "angular",
+              "ant-design",
+              "antd",
+              "icons",
+              "react",
+              "svg-icons",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1289,12 +2054,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "⚠️ 已停止维护，请使用：https://github.com/ant-design/ant-design-icons",
+            "homepage": null,
             "id": 134052059,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-08-22T16:01:18Z",
+            "open_issues": 1,
             "owner": "fjc0k",
             "repo": "ant-design-icons",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "ant-design",
+              "ant-design-icons",
+              "ant-design-mobile",
+              "icons",
+              "svg",
+              "web-fonts"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         },
@@ -1305,12 +2082,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ant Design + Material Design Icon =",
+            "homepage": "https://git.io/JyDhM",
             "id": 220388732,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-18T11:37:37Z",
+            "open_issues": 22,
             "owner": "2fd",
             "repo": "ant-design-icons",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "ant-design",
+              "antd",
+              "icons",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
         }
@@ -1319,15 +2106,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:06:32.249Z",
+    "last_updated": "2026-08-29T04:19:30.079Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
+      "homepage": "http://ant.design/",
       "id": 64331013,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2025-07-29T08:15:52Z",
+      "open_issues": 31,
       "owner": "websemantics",
       "repo": "awesome-ant-design",
-      "stars": 3298
+      "stars": 3298,
+      "topics": []
     },
     "original_repository_sha": "7afce368a9a5b871f3f0dc9e8bef71a821f2841b",
     "enhanced_repository": "enhansome/enhansome-ant-design",
