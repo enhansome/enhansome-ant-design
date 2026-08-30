@@ -411,7 +411,7 @@
             "open_issues": 166,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4746,
+            "stars": 4744,
             "topics": [
               "ai",
               "antd",
@@ -595,10 +595,10 @@
             "language": "Vue",
             "license": "NOASSERTION",
             "last_commit": "2026-08-26T23:48:22Z",
-            "open_issues": 124,
+            "open_issues": 123,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21634,
+            "stars": 21636,
             "topics": [
               "ant",
               "ant-design",
@@ -763,7 +763,7 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-26T10:37:30Z",
+            "last_commit": "2026-08-29T14:28:46Z",
             "open_issues": 74,
             "owner": "Megabit",
             "repo": "Blazorise",
@@ -1170,10 +1170,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-14T23:02:15Z",
-            "open_issues": 489,
+            "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8742,
+            "stars": 8746,
             "topics": [
               "accounting",
               "accounting-software",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:34:49.442Z",
+    "last_updated": "2026-08-30T01:46:12.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
