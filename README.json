@@ -407,11 +407,11 @@
             "id": 798235565,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-10T03:53:13Z",
-            "open_issues": 166,
+            "last_commit": "2026-08-31T10:09:16Z",
+            "open_issues": 164,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4743,
+            "stars": 4749,
             "topics": [
               "ai",
               "antd",
@@ -515,7 +515,7 @@
             "open_issues": 783,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9166,
+            "stars": 9168,
             "topics": [
               "angular",
               "angular-components",
@@ -598,7 +598,7 @@
             "open_issues": 123,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21635,
+            "stars": 21636,
             "topics": [
               "ant",
               "ant-design",
@@ -763,11 +763,11 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T14:28:46Z",
-            "open_issues": 75,
+            "last_commit": "2026-08-31T14:36:56Z",
+            "open_issues": 73,
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3531,
+            "stars": 3530,
             "topics": [
               "antdesign",
               "blazor",
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8749,
+            "stars": 8751,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1279,7 +1279,7 @@
             "open_issues": 38,
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9760,
+            "stars": 9763,
             "topics": [
               "admin",
               "antd",
@@ -2030,8 +2030,8 @@
             "id": 139113100,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T08:15:15Z",
-            "open_issues": 103,
+            "last_commit": "2026-08-31T09:33:32Z",
+            "open_issues": 100,
             "owner": "ant-design",
             "repo": "ant-design-icons",
             "stars": 1089,
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:40:05.911Z",
+    "last_updated": "2026-09-01T02:05:03.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
