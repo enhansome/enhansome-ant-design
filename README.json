@@ -19,7 +19,7 @@
             "open_issues": 67,
             "owner": "dvajs",
             "repo": "dva-cli",
-            "stars": 959,
+            "stars": 958,
             "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
@@ -40,7 +40,7 @@
             "open_issues": 19,
             "owner": "ant-design",
             "repo": "antd-init",
-            "stars": 810,
+            "stars": 809,
             "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
@@ -407,11 +407,11 @@
             "id": 798235565,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-31T10:09:16Z",
-            "open_issues": 164,
+            "last_commit": "2026-09-01T14:54:55Z",
+            "open_issues": 165,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4749,
+            "stars": 4750,
             "topics": [
               "ai",
               "antd",
@@ -511,8 +511,8 @@
             "id": 99705100,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-25T05:31:27Z",
-            "open_issues": 783,
+            "last_commit": "2026-09-01T06:59:46Z",
+            "open_issues": 781,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9168,
@@ -551,7 +551,7 @@
             "open_issues": 61,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd-mobile",
-            "stars": 807,
+            "stars": 806,
             "topics": [
               "alibaba",
               "angular",
@@ -598,7 +598,7 @@
             "open_issues": 123,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21636,
+            "stars": 21637,
             "topics": [
               "ant",
               "ant-design",
@@ -635,7 +635,7 @@
             "open_issues": 98,
             "owner": "iczer",
             "repo": "vue-antd-admin",
-            "stars": 3663,
+            "stars": 3664,
             "topics": [
               "admin",
               "ant",
@@ -665,7 +665,7 @@
             "open_issues": 63,
             "owner": "FE-Driver",
             "repo": "vue-beauty",
-            "stars": 2099,
+            "stars": 2098,
             "topics": [
               "components",
               "javascript",
@@ -764,10 +764,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-08-31T14:36:56Z",
-            "open_issues": 73,
+            "open_issues": 75,
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3530,
+            "stars": 3531,
             "topics": [
               "antdesign",
               "blazor",
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8751,
+            "stars": 8754,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1279,7 +1279,7 @@
             "open_issues": 38,
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9763,
+            "stars": 9762,
             "topics": [
               "admin",
               "antd",
@@ -1302,7 +1302,7 @@
             "id": 100562563,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-06-16T07:31:01Z",
+            "last_commit": "2026-09-01T05:53:12Z",
             "open_issues": 36,
             "owner": "ng-alain",
             "repo": "ng-alain",
@@ -2000,7 +2000,7 @@
             "open_issues": 19,
             "owner": "nowa-webpack",
             "repo": "nowa-gui",
-            "stars": 200,
+            "stars": 199,
             "topics": [
               "antd",
               "dva",
@@ -2034,7 +2034,7 @@
             "open_issues": 100,
             "owner": "ant-design",
             "repo": "ant-design-icons",
-            "stars": 1089,
+            "stars": 1088,
             "topics": [
               "angular",
               "ant-design",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T02:05:03.243Z",
+    "last_updated": "2026-09-02T01:27:33.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
@@ -2118,7 +2118,7 @@
       "open_issues": 31,
       "owner": "websemantics",
       "repo": "awesome-ant-design",
-      "stars": 3298,
+      "stars": 3297,
       "topics": []
     },
     "original_repository_sha": "7afce368a9a5b871f3f0dc9e8bef71a821f2841b",
