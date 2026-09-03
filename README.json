@@ -408,10 +408,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-01T14:54:55Z",
-            "open_issues": 165,
+            "open_issues": 167,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4750,
+            "stars": 4751,
             "topics": [
               "ai",
               "antd",
@@ -511,8 +511,8 @@
             "id": 99705100,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T06:59:46Z",
-            "open_issues": 781,
+            "last_commit": "2026-09-02T23:12:20Z",
+            "open_issues": 785,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9168,
@@ -594,7 +594,7 @@
             "id": 104172832,
             "language": "Vue",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-26T23:48:22Z",
+            "last_commit": "2026-09-02T23:49:23Z",
             "open_issues": 123,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
@@ -763,11 +763,11 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T14:36:56Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-02T12:08:11Z",
+            "open_issues": 72,
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3531,
+            "stars": 3532,
             "topics": [
               "antdesign",
               "blazor",
@@ -930,7 +930,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-03-22T08:49:18Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "typesnippet",
             "repo": "antd-phone-input",
             "stars": 93,
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8754,
+            "stars": 8759,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1279,7 +1279,7 @@
             "open_issues": 38,
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9762,
+            "stars": 9761,
             "topics": [
               "admin",
               "antd",
@@ -1302,8 +1302,8 @@
             "id": 100562563,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T05:53:12Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-02T04:56:09Z",
+            "open_issues": 35,
             "owner": "ng-alain",
             "repo": "ng-alain",
             "stars": 4529,
@@ -1674,7 +1674,7 @@
             "open_issues": 2,
             "owner": "pookpal",
             "repo": "star-initReact-example",
-            "stars": 76,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
@@ -1750,27 +1750,6 @@
         },
         {
           "node_type": "item",
-          "title": "Aspnet Core Antd Boilerplate",
-          "description": "Server Side Rendering with Asp.net core.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Server Side Rendering antd with ASP.NET CORE ",
-            "homepage": null,
-            "id": 86895971,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2019-10-19T10:05:52Z",
-            "open_issues": 4,
-            "owner": "BANG88",
-            "repo": "aspnet-core-react-antd-boilerplate",
-            "stars": 20,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:06:32.249Z"
-        },
-        {
-          "node_type": "item",
           "title": "React Boilerplate",
           "description": "React Admin front-end boilerplate built with Ant Design.",
           "children": [],
@@ -1785,6 +1764,27 @@
             "open_issues": 0,
             "owner": "huhulab",
             "repo": "react-frontend-boilerplate",
+            "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:06:32.249Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Aspnet Core Antd Boilerplate",
+          "description": "Server Side Rendering with Asp.net core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Server Side Rendering antd with ASP.NET CORE ",
+            "homepage": null,
+            "id": 86895971,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2019-10-19T10:05:52Z",
+            "open_issues": 4,
+            "owner": "BANG88",
+            "repo": "aspnet-core-react-antd-boilerplate",
             "stars": 19,
             "topics": []
           },
@@ -2034,7 +2034,7 @@
             "open_issues": 100,
             "owner": "ant-design",
             "repo": "ant-design-icons",
-            "stars": 1088,
+            "stars": 1089,
             "topics": [
               "angular",
               "ant-design",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:27:33.770Z",
+    "last_updated": "2026-09-03T01:30:53.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
