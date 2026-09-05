@@ -411,7 +411,7 @@
             "open_issues": 167,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4757,
+            "stars": 4759,
             "topics": [
               "ai",
               "antd",
@@ -515,7 +515,7 @@
             "open_issues": 785,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9169,
+            "stars": 9168,
             "topics": [
               "angular",
               "angular-components",
@@ -594,11 +594,11 @@
             "id": 104172832,
             "language": "Vue",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T20:42:29Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-04T05:41:31Z",
+            "open_issues": 128,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21639,
+            "stars": 21640,
             "topics": [
               "ant",
               "ant-design",
@@ -763,7 +763,7 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T07:44:56Z",
+            "last_commit": "2026-09-04T08:23:15Z",
             "open_issues": 72,
             "owner": "Megabit",
             "repo": "Blazorise",
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8757,
+            "stars": 8759,
             "topics": [
               "accounting",
               "accounting-software",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:25:01.838Z",
+    "last_updated": "2026-09-05T01:27:35.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
