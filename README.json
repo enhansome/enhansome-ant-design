@@ -411,7 +411,7 @@
             "open_issues": 167,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4759,
+            "stars": 4761,
             "topics": [
               "ai",
               "antd",
@@ -515,7 +515,7 @@
             "open_issues": 785,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9168,
+            "stars": 9169,
             "topics": [
               "angular",
               "angular-components",
@@ -551,7 +551,7 @@
             "open_issues": 61,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd-mobile",
-            "stars": 806,
+            "stars": 807,
             "topics": [
               "alibaba",
               "angular",
@@ -595,10 +595,10 @@
             "language": "Vue",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T05:41:31Z",
-            "open_issues": 128,
+            "open_issues": 127,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21640,
+            "stars": 21641,
             "topics": [
               "ant",
               "ant-design",
@@ -635,7 +635,7 @@
             "open_issues": 98,
             "owner": "iczer",
             "repo": "vue-antd-admin",
-            "stars": 3663,
+            "stars": 3662,
             "topics": [
               "admin",
               "ant",
@@ -858,7 +858,7 @@
             "open_issues": 40,
             "owner": "Leonard-Li777",
             "repo": "antd-table-infinity",
-            "stars": 287,
+            "stars": 286,
             "topics": [
               "antd",
               "infinity-scroll",
@@ -907,7 +907,7 @@
             "open_issues": 16,
             "owner": "NewbeeFE",
             "repo": "antd-data-table",
-            "stars": 126,
+            "stars": 125,
             "topics": [
               "antd",
               "react",
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8759,
+            "stars": 8762,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1306,7 +1306,7 @@
             "open_issues": 35,
             "owner": "ng-alain",
             "repo": "ng-alain",
-            "stars": 4529,
+            "stars": 4530,
             "topics": [
               "angular",
               "angular-applications",
@@ -1903,7 +1903,7 @@
             "open_issues": 27,
             "owner": "reagent-project",
             "repo": "reagent",
-            "stars": 4888,
+            "stars": 4889,
             "topics": [
               "clojure",
               "clojurescript",
@@ -2034,7 +2034,7 @@
             "open_issues": 100,
             "owner": "ant-design",
             "repo": "ant-design-icons",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "angular",
               "ant-design",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:27:35.586Z",
+    "last_updated": "2026-09-06T01:21:20.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
