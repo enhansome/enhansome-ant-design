@@ -408,10 +408,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-01T14:54:55Z",
-            "open_issues": 167,
+            "open_issues": 168,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4761,
+            "stars": 4762,
             "topics": [
               "ai",
               "antd",
@@ -515,7 +515,7 @@
             "open_issues": 785,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9169,
+            "stars": 9170,
             "topics": [
               "angular",
               "angular-components",
@@ -933,7 +933,7 @@
             "open_issues": 1,
             "owner": "typesnippet",
             "repo": "antd-phone-input",
-            "stars": 93,
+            "stars": 92,
             "topics": [
               "advanced",
               "ant",
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8762,
+            "stars": 8766,
             "topics": [
               "accounting",
               "accounting-software",
@@ -2034,7 +2034,7 @@
             "open_issues": 100,
             "owner": "ant-design",
             "repo": "ant-design-icons",
-            "stars": 1090,
+            "stars": 1092,
             "topics": [
               "angular",
               "ant-design",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:21:20.000Z",
+    "last_updated": "2026-09-07T01:19:42.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
