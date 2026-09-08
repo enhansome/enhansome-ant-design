@@ -408,10 +408,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-01T14:54:55Z",
-            "open_issues": 168,
+            "open_issues": 169,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4762,
+            "stars": 4764,
             "topics": [
               "ai",
               "antd",
@@ -511,11 +511,11 @@
             "id": 99705100,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T23:12:20Z",
-            "open_issues": 785,
+            "last_commit": "2026-09-07T15:37:41Z",
+            "open_issues": 786,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9170,
+            "stars": 9169,
             "topics": [
               "angular",
               "angular-components",
@@ -594,11 +594,11 @@
             "id": 104172832,
             "language": "Vue",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T05:41:31Z",
+            "last_commit": "2026-09-08T00:59:49Z",
             "open_issues": 127,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21641,
+            "stars": 21642,
             "topics": [
               "ant",
               "ant-design",
@@ -665,7 +665,7 @@
             "open_issues": 63,
             "owner": "FE-Driver",
             "repo": "vue-beauty",
-            "stars": 2098,
+            "stars": 2097,
             "topics": [
               "components",
               "javascript",
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8766,
+            "stars": 8770,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1279,7 +1279,7 @@
             "open_issues": 38,
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9762,
+            "stars": 9763,
             "topics": [
               "admin",
               "antd",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:19:42.895Z",
+    "last_updated": "2026-09-08T01:28:14.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
@@ -2118,7 +2118,7 @@
       "open_issues": 31,
       "owner": "websemantics",
       "repo": "awesome-ant-design",
-      "stars": 3297,
+      "stars": 3298,
       "topics": []
     },
     "original_repository_sha": "7afce368a9a5b871f3f0dc9e8bef71a821f2841b",
