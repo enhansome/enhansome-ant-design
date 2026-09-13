@@ -408,10 +408,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-10T07:33:53Z",
-            "open_issues": 172,
+            "open_issues": 170,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4771,
+            "stars": 4773,
             "topics": [
               "ai",
               "antd",
@@ -598,7 +598,7 @@
             "open_issues": 127,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21645,
+            "stars": 21647,
             "topics": [
               "ant",
               "ant-design",
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8791,
+            "stars": 8796,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1279,7 +1279,7 @@
             "open_issues": 38,
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9765,
+            "stars": 9767,
             "topics": [
               "admin",
               "antd",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:36:29.374Z",
+    "last_updated": "2026-09-13T01:27:06.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
