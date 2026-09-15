@@ -407,11 +407,11 @@
             "id": 798235565,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-10T07:33:53Z",
-            "open_issues": 170,
+            "last_commit": "2026-09-15T01:42:15Z",
+            "open_issues": 168,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4774,
+            "stars": 4777,
             "topics": [
               "ai",
               "antd",
@@ -511,7 +511,7 @@
             "id": 99705100,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T15:31:41Z",
+            "last_commit": "2026-09-14T11:27:45Z",
             "open_issues": 796,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
@@ -763,7 +763,7 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T08:44:25Z",
+            "last_commit": "2026-09-14T10:01:39Z",
             "open_issues": 69,
             "owner": "Megabit",
             "repo": "Blazorise",
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8797,
+            "stars": 8801,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1303,10 +1303,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-11T13:19:53Z",
-            "open_issues": 35,
+            "open_issues": 34,
             "owner": "ng-alain",
             "repo": "ng-alain",
-            "stars": 4530,
+            "stars": 4531,
             "topics": [
               "angular",
               "angular-applications",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:44:48.217Z",
+    "last_updated": "2026-09-15T01:55:38.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
@@ -2118,7 +2118,7 @@
       "open_issues": 31,
       "owner": "websemantics",
       "repo": "awesome-ant-design",
-      "stars": 3299,
+      "stars": 3297,
       "topics": []
     },
     "original_repository_sha": "7afce368a9a5b871f3f0dc9e8bef71a821f2841b",
