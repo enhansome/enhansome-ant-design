@@ -411,7 +411,7 @@
             "open_issues": 168,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4777,
+            "stars": 4779,
             "topics": [
               "ai",
               "antd",
@@ -511,11 +511,11 @@
             "id": 99705100,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T11:27:45Z",
+            "last_commit": "2026-09-16T01:44:57Z",
             "open_issues": 796,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9170,
+            "stars": 9171,
             "topics": [
               "angular",
               "angular-components",
@@ -594,11 +594,11 @@
             "id": 104172832,
             "language": "Vue",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T02:55:06Z",
+            "last_commit": "2026-09-16T00:50:00Z",
             "open_issues": 127,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21649,
+            "stars": 21651,
             "topics": [
               "ant",
               "ant-design",
@@ -635,7 +635,7 @@
             "open_issues": 98,
             "owner": "iczer",
             "repo": "vue-antd-admin",
-            "stars": 3662,
+            "stars": 3661,
             "topics": [
               "admin",
               "ant",
@@ -763,8 +763,8 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T10:01:39Z",
-            "open_issues": 69,
+            "last_commit": "2026-09-15T20:41:31Z",
+            "open_issues": 70,
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3535,
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8801,
+            "stars": 8805,
             "topics": [
               "accounting",
               "accounting-software",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:55:38.885Z",
+    "last_updated": "2026-09-16T01:45:32.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
