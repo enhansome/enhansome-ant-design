@@ -323,7 +323,7 @@
                 "open_issues": 21,
                 "owner": "ant-design",
                 "repo": "ant-design-dark-theme",
-                "stars": 476,
+                "stars": 475,
                 "topics": [
                   "ant-design",
                   "ant-design-pro",
@@ -350,7 +350,7 @@
                 "open_issues": 7,
                 "owner": "ant-design",
                 "repo": "ant-design-aliyun-theme",
-                "stars": 308,
+                "stars": 307,
                 "topics": [
                   "aliyun",
                   "ant-design",
@@ -408,10 +408,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-17T03:22:06Z",
-            "open_issues": 172,
+            "open_issues": 173,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4784,
+            "stars": 4787,
             "topics": [
               "ai",
               "antd",
@@ -512,7 +512,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-17T08:26:02Z",
-            "open_issues": 793,
+            "open_issues": 799,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9172,
@@ -594,11 +594,11 @@
             "id": 104172832,
             "language": "Vue",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T23:25:37Z",
+            "last_commit": "2026-09-19T01:38:00Z",
             "open_issues": 127,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21653,
+            "stars": 21655,
             "topics": [
               "ant",
               "ant-design",
@@ -694,7 +694,7 @@
             "open_issues": 1,
             "owner": "zzuu666",
             "repo": "antue",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "ant-design",
               "component",
@@ -763,11 +763,11 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T21:24:50Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-18T14:59:45Z",
+            "open_issues": 74,
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3535,
+            "stars": 3534,
             "topics": [
               "antdesign",
               "blazor",
@@ -883,7 +883,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2023-12-02T05:43:19Z",
-            "open_issues": 8,
+            "open_issues": 0,
             "owner": "viewweiwu",
             "repo": "amiya",
             "stars": 138,
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8812,
+            "stars": 8818,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1903,7 +1903,7 @@
             "open_issues": 27,
             "owner": "reagent-project",
             "repo": "reagent",
-            "stars": 4889,
+            "stars": 4888,
             "topics": [
               "clojure",
               "clojurescript",
@@ -2034,7 +2034,7 @@
             "open_issues": 101,
             "owner": "ant-design",
             "repo": "ant-design-icons",
-            "stars": 1090,
+            "stars": 1091,
             "topics": [
               "angular",
               "ant-design",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:36:02.175Z",
+    "last_updated": "2026-09-19T01:40:55.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
