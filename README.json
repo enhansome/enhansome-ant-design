@@ -407,11 +407,11 @@
             "id": 798235565,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-17T03:22:06Z",
-            "open_issues": 174,
+            "last_commit": "2026-09-20T03:21:01Z",
+            "open_issues": 173,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4789,
+            "stars": 4791,
             "topics": [
               "ai",
               "antd",
@@ -511,11 +511,11 @@
             "id": 99705100,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T01:42:02Z",
-            "open_issues": 801,
+            "last_commit": "2026-09-20T05:42:02Z",
+            "open_issues": 799,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9172,
+            "stars": 9173,
             "topics": [
               "angular",
               "angular-components",
@@ -598,7 +598,7 @@
             "open_issues": 126,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21655,
+            "stars": 21657,
             "topics": [
               "ant",
               "ant-design",
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8818,
+            "stars": 8820,
             "topics": [
               "accounting",
               "accounting-software",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T01:43:12.401Z",
+    "last_updated": "2026-09-21T01:44:20.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
