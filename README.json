@@ -411,7 +411,7 @@
             "open_issues": 173,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4800,
+            "stars": 4798,
             "topics": [
               "ai",
               "antd",
@@ -512,7 +512,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-30T00:47:45Z",
-            "open_issues": 804,
+            "open_issues": 797,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9179,
@@ -595,10 +595,10 @@
             "language": "Vue",
             "license": "NOASSERTION",
             "last_commit": "2026-09-25T11:59:50Z",
-            "open_issues": 127,
+            "open_issues": 128,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21672,
+            "stars": 21673,
             "topics": [
               "ant",
               "ant-design",
@@ -763,8 +763,8 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T11:52:04Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-30T14:50:00Z",
+            "open_issues": 54,
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3536,
@@ -1152,7 +1152,7 @@
             "open_issues": 485,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8836,
+            "stars": 8841,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1258,7 +1258,7 @@
             "open_issues": 38,
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9771,
+            "stars": 9770,
             "topics": [
               "admin",
               "antd",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:27:18.137Z",
+    "last_updated": "2026-10-01T02:29:40.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
