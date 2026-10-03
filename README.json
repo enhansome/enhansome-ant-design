@@ -438,7 +438,7 @@
             "open_issues": 62,
             "owner": "ant-design",
             "repo": "ant-design-web3",
-            "stars": 1148,
+            "stars": 1147,
             "topics": [
               "antd",
               "bitcoin",
@@ -598,7 +598,7 @@
             "open_issues": 128,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21673,
+            "stars": 21672,
             "topics": [
               "ant",
               "ant-design",
@@ -763,7 +763,7 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T14:51:03Z",
+            "last_commit": "2026-10-02T20:34:30Z",
             "open_issues": 54,
             "owner": "Megabit",
             "repo": "Blazorise",
@@ -1152,7 +1152,7 @@
             "open_issues": 485,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8842,
+            "stars": 8843,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1878,8 +1878,8 @@
             "id": 15290592,
             "language": "Clojure",
             "license": "MIT",
-            "last_commit": "2026-08-19T07:18:08Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-02T11:11:03Z",
+            "open_issues": 28,
             "owner": "reagent-project",
             "repo": "reagent",
             "stars": 4889,
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:36:21.704Z",
+    "last_updated": "2026-10-03T02:22:35.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
@@ -2097,7 +2097,7 @@
       "open_issues": 31,
       "owner": "websemantics",
       "repo": "awesome-ant-design",
-      "stars": 3299,
+      "stars": 3300,
       "topics": []
     },
     "original_repository_sha": "7afce368a9a5b871f3f0dc9e8bef71a821f2841b",
