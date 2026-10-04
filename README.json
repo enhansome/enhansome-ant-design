@@ -515,7 +515,7 @@
             "open_issues": 800,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9179,
+            "stars": 9180,
             "topics": [
               "angular",
               "angular-components",
@@ -594,11 +594,11 @@
             "id": 104172832,
             "language": "Vue",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T18:42:59Z",
-            "open_issues": 128,
+            "last_commit": "2026-10-03T06:54:59Z",
+            "open_issues": 129,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21672,
+            "stars": 21671,
             "topics": [
               "ant",
               "ant-design",
@@ -763,11 +763,11 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T20:34:30Z",
+            "last_commit": "2026-10-03T13:26:41Z",
             "open_issues": 54,
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3536,
+            "stars": 3535,
             "topics": [
               "antdesign",
               "blazor",
@@ -1152,7 +1152,7 @@
             "open_issues": 485,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8843,
+            "stars": 8845,
             "topics": [
               "accounting",
               "accounting-software",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:34:42.671Z",
+    "last_updated": "2026-10-04T02:52:57.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
