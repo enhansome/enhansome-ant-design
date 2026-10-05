@@ -512,7 +512,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-30T00:47:45Z",
-            "open_issues": 800,
+            "open_issues": 801,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9180,
@@ -763,7 +763,7 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T13:26:41Z",
+            "last_commit": "2026-10-04T20:39:43Z",
             "open_issues": 54,
             "owner": "Megabit",
             "repo": "Blazorise",
@@ -1152,7 +1152,7 @@
             "open_issues": 485,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8845,
+            "stars": 8847,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1882,7 +1882,7 @@
             "open_issues": 28,
             "owner": "reagent-project",
             "repo": "reagent",
-            "stars": 4889,
+            "stars": 4890,
             "topics": [
               "clojure",
               "clojurescript",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:52:57.625Z",
+    "last_updated": "2026-10-05T02:26:02.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
