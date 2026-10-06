@@ -408,10 +408,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-01T14:55:09Z",
-            "open_issues": 173,
+            "open_issues": 174,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4800,
+            "stars": 4801,
             "topics": [
               "ai",
               "antd",
@@ -1152,7 +1152,7 @@
             "open_issues": 485,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8844,
+            "stars": 8848,
             "topics": [
               "accounting",
               "accounting-software",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T03:21:31.581Z",
+    "last_updated": "2026-10-06T10:21:22.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
