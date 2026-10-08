@@ -511,11 +511,11 @@
             "id": 99705100,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T00:47:45Z",
-            "open_issues": 801,
+            "last_commit": "2026-10-08T01:20:45Z",
+            "open_issues": 802,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9180,
+            "stars": 9179,
             "topics": [
               "angular",
               "angular-components",
@@ -635,7 +635,7 @@
             "open_issues": 98,
             "owner": "iczer",
             "repo": "vue-antd-admin",
-            "stars": 3662,
+            "stars": 3661,
             "topics": [
               "admin",
               "ant",
@@ -665,7 +665,7 @@
             "open_issues": 63,
             "owner": "FE-Driver",
             "repo": "vue-beauty",
-            "stars": 2100,
+            "stars": 2098,
             "topics": [
               "components",
               "javascript",
@@ -694,7 +694,7 @@
             "open_issues": 1,
             "owner": "zzuu666",
             "repo": "antue",
-            "stars": 257,
+            "stars": 256,
             "topics": [
               "ant-design",
               "component",
@@ -763,8 +763,8 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T11:24:51Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-07T20:31:35Z",
+            "open_issues": 53,
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3536,
@@ -1152,7 +1152,7 @@
             "open_issues": 486,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8854,
+            "stars": 8857,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1258,7 +1258,7 @@
             "open_issues": 38,
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9768,
+            "stars": 9769,
             "topics": [
               "admin",
               "antd",
@@ -1281,7 +1281,7 @@
             "id": 100562563,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T07:02:08Z",
+            "last_commit": "2026-10-07T12:15:52Z",
             "open_issues": 35,
             "owner": "ng-alain",
             "repo": "ng-alain",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:43:47.659Z",
+    "last_updated": "2026-10-08T03:00:50.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
