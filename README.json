@@ -273,7 +273,7 @@
             "open_issues": 17,
             "owner": "luffyZh",
             "repo": "dynamic-antd-theme",
-            "stars": 245,
+            "stars": 244,
             "topics": [
               "ant-design",
               "antd",
@@ -350,7 +350,7 @@
                 "open_issues": 7,
                 "owner": "ant-design",
                 "repo": "ant-design-aliyun-theme",
-                "stars": 307,
+                "stars": 306,
                 "topics": [
                   "aliyun",
                   "ant-design",
@@ -515,7 +515,7 @@
             "open_issues": 786,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9181,
+            "stars": 9182,
             "topics": [
               "angular",
               "angular-components",
@@ -598,7 +598,7 @@
             "open_issues": 126,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21677,
+            "stars": 21680,
             "topics": [
               "ant",
               "ant-design",
@@ -763,8 +763,8 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T18:09:19Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-15T17:21:44Z",
+            "open_issues": 51,
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3537,
@@ -785,6 +785,27 @@
             ]
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ant-design-blazor",
+          "description": "Ant Design of Blazor(both Server-side and WebAssembly).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.",
+            "homepage": "https://antblazor.com/",
+            "id": 492493732,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2024-08-20T23:02:24Z",
+            "open_issues": 0,
+            "owner": "ElderJames",
+            "repo": "ant-design-blazor",
+            "stars": 31,
+            "topics": []
+          },
+          "first_seen": "2026-10-16T01:42:59.978Z"
         }
       ],
       "title": "Blazor"
@@ -1091,7 +1112,7 @@
             "open_issues": 30,
             "owner": "ant-design",
             "repo": "sunflower",
-            "stars": 490,
+            "stars": 489,
             "topics": [
               "ant-design",
               "antd",
@@ -1152,7 +1173,7 @@
             "open_issues": 485,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8878,
+            "stars": 8880,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1882,7 +1903,7 @@
             "open_issues": 28,
             "owner": "reagent-project",
             "repo": "reagent",
-            "stars": 4891,
+            "stars": 4890,
             "topics": [
               "clojure",
               "clojurescript",
@@ -1979,7 +2000,7 @@
             "open_issues": 19,
             "owner": "nowa-webpack",
             "repo": "nowa-gui",
-            "stars": 199,
+            "stars": 198,
             "topics": [
               "antd",
               "dva",
@@ -2085,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:53:29.375Z",
+    "last_updated": "2026-10-16T01:42:59.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
