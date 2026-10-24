@@ -512,7 +512,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-21T04:00:44Z",
-            "open_issues": 790,
+            "open_issues": 791,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9188,
@@ -595,10 +595,10 @@
             "language": "Vue",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T19:36:49Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21685,
+            "stars": 21686,
             "topics": [
               "ant",
               "ant-design",
@@ -635,7 +635,7 @@
             "open_issues": 98,
             "owner": "iczer",
             "repo": "vue-antd-admin",
-            "stars": 3661,
+            "stars": 3659,
             "topics": [
               "admin",
               "ant",
@@ -763,8 +763,8 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T11:56:08Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-23T15:44:38Z",
+            "open_issues": 32,
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3541,
@@ -1139,7 +1139,7 @@
             "open_issues": 25,
             "owner": "hemengke1997",
             "repo": "use-antd-resizable-header",
-            "stars": 274,
+            "stars": 273,
             "topics": [
               "ant-design",
               "drag",
@@ -1173,7 +1173,7 @@
             "open_issues": 484,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8905,
+            "stars": 8909,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1279,7 +1279,7 @@
             "open_issues": 39,
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9764,
+            "stars": 9765,
             "topics": [
               "admin",
               "antd",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T02:00:24.787Z",
+    "last_updated": "2026-10-24T02:01:18.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
