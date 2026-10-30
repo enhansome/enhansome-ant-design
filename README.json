@@ -407,11 +407,11 @@
             "id": 798235565,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-26T12:49:47Z",
-            "open_issues": 178,
+            "last_commit": "2026-10-29T09:19:44Z",
+            "open_issues": 175,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4821,
+            "stars": 4825,
             "topics": [
               "ai",
               "antd",
@@ -511,7 +511,7 @@
             "id": 99705100,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T09:29:12Z",
+            "last_commit": "2026-10-30T02:37:42Z",
             "open_issues": 796,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
@@ -598,7 +598,7 @@
             "open_issues": 127,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21696,
+            "stars": 21697,
             "topics": [
               "ant",
               "ant-design",
@@ -764,7 +764,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-28T17:43:29Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3543,
@@ -1173,7 +1173,7 @@
             "open_issues": 484,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8924,
+            "stars": 8926,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1279,7 +1279,7 @@
             "open_issues": 39,
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9767,
+            "stars": 9766,
             "topics": [
               "admin",
               "antd",
@@ -1302,8 +1302,8 @@
             "id": 100562563,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T12:15:52Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-29T05:09:17Z",
+            "open_issues": 35,
             "owner": "ng-alain",
             "repo": "ng-alain",
             "stars": 4532,
@@ -1903,7 +1903,7 @@
             "open_issues": 28,
             "owner": "reagent-project",
             "repo": "reagent",
-            "stars": 4895,
+            "stars": 4896,
             "topics": [
               "clojure",
               "clojurescript",
@@ -2034,7 +2034,7 @@
             "open_issues": 102,
             "owner": "ant-design",
             "repo": "ant-design-icons",
-            "stars": 1100,
+            "stars": 1101,
             "topics": [
               "angular",
               "ant-design",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:55:38.395Z",
+    "last_updated": "2026-10-30T03:00:24.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
