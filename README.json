@@ -273,7 +273,7 @@
             "open_issues": 17,
             "owner": "luffyZh",
             "repo": "dynamic-antd-theme",
-            "stars": 244,
+            "stars": 245,
             "topics": [
               "ant-design",
               "antd",
@@ -408,7 +408,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-29T09:19:44Z",
-            "open_issues": 175,
+            "open_issues": 176,
             "owner": "ant-design",
             "repo": "x",
             "stars": 4825,
@@ -511,11 +511,11 @@
             "id": 99705100,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T02:37:42Z",
-            "open_issues": 796,
+            "last_commit": "2026-10-30T06:35:09Z",
+            "open_issues": 794,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9192,
+            "stars": 9193,
             "topics": [
               "angular",
               "angular-components",
@@ -551,7 +551,7 @@
             "open_issues": 61,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd-mobile",
-            "stars": 808,
+            "stars": 809,
             "topics": [
               "alibaba",
               "angular",
@@ -598,7 +598,7 @@
             "open_issues": 127,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21697,
+            "stars": 21696,
             "topics": [
               "ant",
               "ant-design",
@@ -1173,7 +1173,7 @@
             "open_issues": 484,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8926,
+            "stars": 8929,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1279,7 +1279,7 @@
             "open_issues": 39,
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9766,
+            "stars": 9768,
             "topics": [
               "admin",
               "antd",
@@ -1306,7 +1306,7 @@
             "open_issues": 35,
             "owner": "ng-alain",
             "repo": "ng-alain",
-            "stars": 4532,
+            "stars": 4533,
             "topics": [
               "angular",
               "angular-applications",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T03:00:24.604Z",
+    "last_updated": "2026-10-31T02:46:38.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
