@@ -411,7 +411,7 @@
             "open_issues": 176,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4829,
+            "stars": 4831,
             "topics": [
               "ai",
               "antd",
@@ -512,7 +512,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-30T06:35:09Z",
-            "open_issues": 794,
+            "open_issues": 795,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9192,
@@ -598,7 +598,7 @@
             "open_issues": 127,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21697,
+            "stars": 21699,
             "topics": [
               "ant",
               "ant-design",
@@ -1173,7 +1173,7 @@
             "open_issues": 484,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8931,
+            "stars": 8933,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1303,7 +1303,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-29T05:09:17Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "ng-alain",
             "repo": "ng-alain",
             "stars": 4533,
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:39:38.279Z",
+    "last_updated": "2026-11-02T02:46:45.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
