@@ -411,7 +411,7 @@
             "open_issues": 178,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4837,
+            "stars": 4839,
             "topics": [
               "ai",
               "antd",
@@ -512,7 +512,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-04T10:09:58Z",
-            "open_issues": 788,
+            "open_issues": 791,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9193,
@@ -595,10 +595,10 @@
             "language": "Vue",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T19:36:49Z",
-            "open_issues": 128,
+            "open_issues": 127,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21702,
+            "stars": 21703,
             "topics": [
               "ant",
               "ant-design",
@@ -694,7 +694,7 @@
             "open_issues": 1,
             "owner": "zzuu666",
             "repo": "antue",
-            "stars": 254,
+            "stars": 253,
             "topics": [
               "ant-design",
               "component",
@@ -763,7 +763,7 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T12:00:22Z",
+            "last_commit": "2026-11-06T13:07:41Z",
             "open_issues": 14,
             "owner": "Megabit",
             "repo": "Blazorise",
@@ -1173,7 +1173,7 @@
             "open_issues": 484,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8941,
+            "stars": 8944,
             "topics": [
               "accounting",
               "accounting-software",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:42:41.526Z",
+    "last_updated": "2026-11-07T03:16:38.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
@@ -2118,7 +2118,7 @@
       "open_issues": 31,
       "owner": "websemantics",
       "repo": "awesome-ant-design",
-      "stars": 3302,
+      "stars": 3303,
       "topics": []
     },
     "original_repository_sha": "7afce368a9a5b871f3f0dc9e8bef71a821f2841b",
