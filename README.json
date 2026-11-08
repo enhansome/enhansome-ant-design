@@ -411,7 +411,7 @@
             "open_issues": 178,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4839,
+            "stars": 4840,
             "topics": [
               "ai",
               "antd",
@@ -511,8 +511,8 @@
             "id": 99705100,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T10:09:58Z",
-            "open_issues": 791,
+            "last_commit": "2026-11-07T23:01:03Z",
+            "open_issues": 790,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9193,
@@ -594,11 +594,11 @@
             "id": 104172832,
             "language": "Vue",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T19:36:49Z",
+            "last_commit": "2026-11-07T07:39:51Z",
             "open_issues": 127,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21703,
+            "stars": 21704,
             "topics": [
               "ant",
               "ant-design",
@@ -764,10 +764,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-11-06T13:07:41Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3541,
+            "stars": 3540,
             "topics": [
               "antdesign",
               "blazor",
@@ -1173,7 +1173,7 @@
             "open_issues": 484,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8944,
+            "stars": 8943,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1306,7 +1306,7 @@
             "open_issues": 37,
             "owner": "ng-alain",
             "repo": "ng-alain",
-            "stars": 4532,
+            "stars": 4531,
             "topics": [
               "angular",
               "angular-applications",
@@ -2034,7 +2034,7 @@
             "open_issues": 102,
             "owner": "ant-design",
             "repo": "ant-design-icons",
-            "stars": 1102,
+            "stars": 1103,
             "topics": [
               "angular",
               "ant-design",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T03:16:38.657Z",
+    "last_updated": "2026-11-08T02:44:58.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
