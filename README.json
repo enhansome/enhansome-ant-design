@@ -411,7 +411,7 @@
             "open_issues": 179,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4844,
+            "stars": 4845,
             "topics": [
               "ai",
               "antd",
@@ -512,10 +512,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-09T01:49:51Z",
-            "open_issues": 791,
+            "open_issues": 803,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9192,
+            "stars": 9194,
             "topics": [
               "angular",
               "angular-components",
@@ -763,8 +763,8 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T18:06:15Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-12T10:29:59Z",
+            "open_issues": 16,
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3540,
@@ -829,7 +829,7 @@
             "open_issues": 102,
             "owner": "leejaen",
             "repo": "react-lz-editor",
-            "stars": 944,
+            "stars": 943,
             "topics": [
               "ant-design",
               "antd-editor",
@@ -1173,7 +1173,7 @@
             "open_issues": 484,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8951,
+            "stars": 8952,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1279,7 +1279,7 @@
             "open_issues": 39,
             "owner": "zuiidea",
             "repo": "antd-admin",
-            "stars": 9767,
+            "stars": 9769,
             "topics": [
               "admin",
               "antd",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T04:22:13.812Z",
+    "last_updated": "2026-11-13T03:39:00.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
