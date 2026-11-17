@@ -19,7 +19,7 @@
             "open_issues": 67,
             "owner": "dvajs",
             "repo": "dva-cli",
-            "stars": 956,
+            "stars": 957,
             "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
@@ -411,7 +411,7 @@
             "open_issues": 181,
             "owner": "ant-design",
             "repo": "x",
-            "stars": 4846,
+            "stars": 4849,
             "topics": [
               "ai",
               "antd",
@@ -512,7 +512,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-13T09:56:41Z",
-            "open_issues": 799,
+            "open_issues": 800,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
             "stars": 9195,
@@ -598,7 +598,7 @@
             "open_issues": 115,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21716,
+            "stars": 21717,
             "topics": [
               "ant",
               "ant-design",
@@ -635,7 +635,7 @@
             "open_issues": 98,
             "owner": "iczer",
             "repo": "vue-antd-admin",
-            "stars": 3659,
+            "stars": 3657,
             "topics": [
               "admin",
               "ant",
@@ -763,8 +763,8 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T10:29:59Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-16T18:22:18Z",
+            "open_issues": 20,
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3542,
@@ -1173,7 +1173,7 @@
             "open_issues": 484,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8959,
+            "stars": 8960,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1899,8 +1899,8 @@
             "id": 15290592,
             "language": "Clojure",
             "license": "MIT",
-            "last_commit": "2026-11-14T18:10:35Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-16T20:49:46Z",
+            "open_issues": 18,
             "owner": "reagent-project",
             "repo": "reagent",
             "stars": 4898,
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T03:14:50.592Z",
+    "last_updated": "2026-11-17T05:15:41.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
