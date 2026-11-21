@@ -511,11 +511,11 @@
             "id": 99705100,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T09:22:22Z",
-            "open_issues": 784,
+            "last_commit": "2026-11-20T20:37:16Z",
+            "open_issues": 782,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9194,
+            "stars": 9195,
             "topics": [
               "angular",
               "angular-components",
@@ -598,7 +598,7 @@
             "open_issues": 115,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21722,
+            "stars": 21723,
             "topics": [
               "ant",
               "ant-design",
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8964,
+            "stars": 8963,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1903,7 +1903,7 @@
             "open_issues": 19,
             "owner": "reagent-project",
             "repo": "reagent",
-            "stars": 4896,
+            "stars": 4898,
             "topics": [
               "clojure",
               "clojurescript",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T04:22:34.284Z",
+    "last_updated": "2026-11-21T04:19:16.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
