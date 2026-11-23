@@ -438,7 +438,7 @@
             "open_issues": 63,
             "owner": "ant-design",
             "repo": "ant-design-web3",
-            "stars": 1148,
+            "stars": 1147,
             "topics": [
               "antd",
               "bitcoin",
@@ -512,10 +512,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-22T02:44:37Z",
-            "open_issues": 780,
+            "open_issues": 781,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9195,
+            "stars": 9194,
             "topics": [
               "angular",
               "angular-components",
@@ -598,7 +598,7 @@
             "open_issues": 117,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21724,
+            "stars": 21725,
             "topics": [
               "ant",
               "ant-design",
@@ -1173,7 +1173,7 @@
             "open_issues": 483,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8962,
+            "stars": 8963,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1899,8 +1899,8 @@
             "id": 15290592,
             "language": "Clojure",
             "license": "MIT",
-            "last_commit": "2026-11-21T09:56:35Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-22T17:56:19Z",
+            "open_issues": 20,
             "owner": "reagent-project",
             "repo": "reagent",
             "stars": 4898,
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:31:32.476Z",
+    "last_updated": "2026-11-23T04:03:39.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
