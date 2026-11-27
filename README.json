@@ -515,7 +515,7 @@
             "open_issues": 781,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9195,
+            "stars": 9196,
             "topics": [
               "angular",
               "angular-components",
@@ -594,11 +594,11 @@
             "id": 104172832,
             "language": "Vue",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T03:48:28Z",
-            "open_issues": 120,
+            "last_commit": "2026-11-27T03:57:53Z",
+            "open_issues": 122,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21727,
+            "stars": 21729,
             "topics": [
               "ant",
               "ant-design",
@@ -763,7 +763,7 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T10:36:57Z",
+            "last_commit": "2026-11-26T07:46:12Z",
             "open_issues": 18,
             "owner": "Megabit",
             "repo": "Blazorise",
@@ -829,7 +829,7 @@
             "open_issues": 102,
             "owner": "leejaen",
             "repo": "react-lz-editor",
-            "stars": 943,
+            "stars": 942,
             "topics": [
               "ant-design",
               "antd-editor",
@@ -1170,10 +1170,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-14T23:02:15Z",
-            "open_issues": 483,
+            "open_issues": 482,
             "owner": "idurar",
             "repo": "idurar-erp-crm",
-            "stars": 8968,
+            "stars": 8970,
             "topics": [
               "accounting",
               "accounting-software",
@@ -1252,7 +1252,7 @@
             "open_issues": 5,
             "owner": "pizn",
             "repo": "eevee",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-28T07:06:32.249Z"
@@ -2063,7 +2063,7 @@
             "open_issues": 1,
             "owner": "fjc0k",
             "repo": "ant-design-icons",
-            "stars": 53,
+            "stars": 52,
             "topics": [
               "ant-design",
               "ant-design-icons",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T05:30:22.793Z",
+    "last_updated": "2026-11-27T05:25:38.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
