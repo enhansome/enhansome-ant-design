@@ -21,7 +21,7 @@
 
 > A curated list of [Ant Design](http://ant.design/) resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,546 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 544,023 | 🐛 103 | 📅 2026-09-02
 [<img src="https://camo.githubusercontent.com/2f393ed1a4c6d222de314c16e0334301cae3fb7a/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e7376673f73616e6974697a653d74727565" align="right" width="160">](https://ant.design/)
 
 Ant Design, a design language for middleware, is refined by Experience Technology Department of Ant Financial, aims to uniform the user interface specs for middleware projects, reduce the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
@@ -71,7 +71,7 @@ These are tools and utilities to help build apps using Ant Design,
 * [Dva Cli](https://github.com/dvajs/dva-cli) ⭐ 955 | 🐛 67 | 🌐 JavaScript | 📅 2019-03-17 - Create Ant Design projects based on [Dva.js](https://github.com/dvajs/dva) ⭐ 16,122 | 🐛 30 | 🌐 JavaScript | 📅 2025-08-06, a
   lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo](https://github.com/yoshuawuyts/choo) ⭐ 6,765 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20.
 * [Antd Init](https://github.com/ant-design/antd-init) ⚠️ Archived - Ant Design boilerplate generator (for demo only, use dva-cli).
-* [formik-antd](https://github.com/jannikbuschke/formik-antd) ⭐ 587 | 🐛 48 | 🌐 TypeScript | 📅 2024-11-11 - Declarative bindings for the popular form state management library Formik.
+* [formik-antd](https://github.com/jannikbuschke/formik-antd) ⭐ 587 | 🐛 47 | 🌐 TypeScript | 📅 2024-11-11 - Declarative bindings for the popular form state management library Formik.
 * [vscode-antd-rush](https://github.com/fi3ework/vscode-antd-rush) ⭐ 124 | 🐛 9 | 🌐 TypeScript | 📅 2023-01-07 - Rush to Ant Design in VS Code
 * [Zaku](https://github.com/limichange/zaku) ⭐ 89 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-23 - JSX-based UI editor, easy way to build page and generate antd code.
 * [Generator Antd Pro](https://github.com/codetrial/generator-antd-pro) ⭐ 34 | 🐛 1 | 🌐 JavaScript | 📅 2019-01-02 - An easy way to build your Ant Design Pro application.
@@ -101,7 +101,7 @@ Here are utilities that can help you customize your theme and ability to change 
 
 Ant Design family of projects.
 
-* [Ant Design X](https://github.com/ant-design/x) ⭐ 4,856 | 🐛 183 | 🌐 TypeScript | 📅 2026-10-29 - A React UI library @ant-design/x that Crafting AI-driven interfaces with React, seamlessly integrating smart chat components and API services at your fingertips.
+* [Ant Design X](https://github.com/ant-design/x) ⭐ 4,857 | 🐛 183 | 🌐 TypeScript | 📅 2026-10-29 - A React UI library @ant-design/x that Crafting AI-driven interfaces with React, seamlessly integrating smart chat components and API services at your fingertips.
 * [Ant Design Web3](https://github.com/ant-design/ant-design-web3) ⭐ 1,147 | 🐛 62 | 🌐 TypeScript | 📅 2026-07-22 - Efficient react components for building dapps easier | Connect crypto wallets and more Web3 UI components | Web3 icons | Supports Ethereum, Solana, Bitcoin, TON, Sui and others.
 * [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more](https://github.com/antvis/feedback) ⭐ 123 | 🐛 83 | 📅 2017-12-15).
 * [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more](https://github.com/antvis/feedback) ⭐ 123 | 🐛 83 | 📅 2017-12-15).
@@ -120,7 +120,7 @@ Projects that are built with Angular and Ant Design.
 
 Projects that are built with Vue.js and Ant Design.
 
-* [ant-design-vue](https://github.com/vueComponent/ant-design-vue) ⭐ 21,729 | 🐛 122 | 🌐 Vue | 📅 2026-11-27 - Ant Design of Vue.js 2.5.0+.
+* [ant-design-vue](https://github.com/vueComponent/ant-design-vue) ⭐ 21,731 | 🐛 122 | 🌐 Vue | 📅 2026-11-27 - Ant Design of Vue.js 2.5.0+.
 * [vue-antd-admin](https://github.com/iczer/vue-antd-admin) ⭐ 3,658 | 🐛 98 | 🌐 Vue | 📅 2024-05-08 - Ant Design Pro's implementation with Vue
 * [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) ⭐ 2,096 | 🐛 63 | 🌐 JavaScript | 📅 2024-03-06 - Beautiful UI components build with Vue.js and Ant Design.
 * [antue](https://github.com/zzuu666/antue) ⭐ 253 | 🐛 1 | 🌐 Less | 📅 2026-03-01 - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
@@ -131,7 +131,7 @@ Projects that are built with Vue.js and Ant Design.
 
 Projects that are built with Blazor WebAssembly and Ant Design.
 
-* [Blazorise](https://github.com/stsrki/Blazorise) ⭐ 3,537 | 🐛 18 | 🌐 C# | 📅 2026-11-26 - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
+* [Blazorise](https://github.com/stsrki/Blazorise) ⭐ 3,537 | 🐛 17 | 🌐 C# | 📅 2026-11-27 - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
 * [ant-design-blazor](https://github.com/ElderJames/ant-design-blazor) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2024-08-20 - Ant Design of Blazor(both Server-side and WebAssembly).
 
 ## Components
@@ -239,4 +239,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
